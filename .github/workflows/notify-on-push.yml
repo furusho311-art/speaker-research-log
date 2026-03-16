@@ -5,6 +5,9 @@ on:
     paths:
       - 'reports/**/*.md'
 
+permissions:
+  issues: write
+
 jobs:
   notify:
     runs-on: ubuntu-latest
