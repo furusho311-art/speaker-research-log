@@ -9,36 +9,13 @@ jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Extract report info
-        id: info
-        run: |
-          REPORT_FILE=$(find reports -name '*.md' -printf '%T@ %p\n' | sort -rn | head -1 | cut -d' ' -f2-)
-          if [ -z "$REPORT_FILE" ]; then
-            echo "skip=true" >> $GITHUB_OUTPUT
-            exit 0
-          fi
-          THEME=$(grep '^theme:' "$REPORT_FILE" | sed 's/^theme: *"\(.*\)"/\1/')
-          SUMMARY=$(grep '^summary:' "$REPORT_FILE" | sed 's/^summary: *"\(.*\)"/\1/')
-          DATE=$(grep '^date:' "$REPORT_FILE" | sed 's/^date: *//')
-          echo "theme=$THEME" >> $GITHUB_OUTPUT
-          echo "summary=$SUMMARY" >> $GITHUB_OUTPUT
-          echo "date=$DATE" >> $GITHUB_OUTPUT
-          echo "file=$REPORT_FILE" >> $GITHUB_OUTPUT
-          echo "skip=false" >> $GITHUB_OUTPUT
-
       - name: Comment on notification issue
-        if: steps.info.outputs.skip == 'false'
         uses: peter-evans/create-or-update-comment@v4
         with:
           issue-number: 1
           body: |
             ## 📝 新しいレポートが公開されました
 
-            **日付**: ${{ steps.info.outputs.date }}
-            **テーマ**: ${{ steps.info.outputs.theme }}
-            **概要**: ${{ steps.info.outputs.summary }}
+            ${{ github.event.head_commit.message }}
 
-            👉 [レポートを読む](https://github.com/${{ github.repository }}/blob/main/${{ steps.info.outputs.file }})
+            👉 [レポートを見る](https://github.com/${{ github.repository }}/tree/main/reports)
