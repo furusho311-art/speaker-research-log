@@ -4,6 +4,25 @@
 
 ---
 
+## イマーシブオーディオ・空間音響
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-03-17](../reports/2026/03/2026-03-17.md) | オブジェクトベースオーディオが変えるライブPA・ホームシアター：イマーシブサウンドの最前線2026 | イマーシブオーディオ, Dolby Atmos FlexConnect, L-ISA Hyperreal, d&b Soundscape, Holoplot X1, WFS, HOA |
+| [2026-03-17](../reports/2026/03/2026-03-17.md) | （関連）Meyer Sound Spacemap LIVE, 高次アンビソニクス9次研究 | Meyer Sound Spacemap, 高次アンビソニクス |
+
+## 車載オーディオ
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-03-17](../reports/2026/03/2026-03-17.md) | （関連）Pioneer SPHERA, Mercedes-Benz 空間オーディオ | Pioneer SPHERA, CarPlay, Dolby Atmos |
+
+## ライン・アレイ・PAシステム
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-03-17](../reports/2026/03/2026-03-17.md) | （関連）QSC LA108, L-Acoustics K2/K1, ライン・アレイ市場2026 | ラインアレイ, QSC, L-Acoustics |
+
 ## 材料・磁石
 
 | 日付 | テーマ | タグ |
