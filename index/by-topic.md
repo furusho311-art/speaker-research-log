@@ -87,3 +87,10 @@
 | 日付 | テーマ | タグ |
 |------|--------|------|
 | [2026-03-18](../reports/2026/03/2026-03-18.md) | Perception-Driven Acoustic Engineering / ヤマハ感性計測 / OSU AI知覚モデル | 感性工学, 心理音響, AI音質評価, ラウドネス, ラフネス |
+
+## 業界経営・M&A動向
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-03-19](../reports/2026/03/2026-03-19.md) | **特集**：プロオーディオ業界のM&A・経営動向2026：QSC・Lectrosonics買収から読む業界再編の大波 | M&A, QSC, Acuity Brands, Q-SYS, Freedman Group, Lectrosonics, RØDE, Powersoft, K-Array, L-Acoustics, Harman, 業界再編, Intelligent Spaces |
+| [2026-03-19](../reports/2026/03/2026-03-19.md) | （関連）Powersoft×K-Array 51%取得, HARMAN/Samsung垂直統合, プロオーディオ市場$132.6億 | Powersoft, K-Array, Harman, Samsung, 市場規模 |
