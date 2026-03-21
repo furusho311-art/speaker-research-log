@@ -101,3 +101,10 @@
 |------|--------|------|
 | [2026-03-20](../reports/2026/03/2026-03-20.md) | **特集**：完全ワイヤレスイヤホン（TWS）技術の最前線2026：ドライバー革新・ANC進化・健康モニタリング・オープン型の台頭 | TWS, 完全ワイヤレスイヤホン, ANC, ノイズキャンセリング, 磁性流体ドライバー, MEMS, 平面磁界, LE Audio, LC3, 骨伝導, オープン型, ヘルスモニタリング, Apple AirPods, Sony WF-1000XM6, Technics |
 | [2026-03-20](../reports/2026/03/2026-03-20.md) | （関連）Otowahr/Merry Electronics MEMS平面磁界TWSドライバー, xMEMSアンプレスツイーター, Apple AirPods Pro 3 PPG心拍センサー | MEMS, Otowahr, xMEMS, Apple, PPG, ヘルスセンサー |
+
+## 設計シミュレーション・数値解析（BEM/FEM/最適化）
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-03-21](../reports/2026/03/2026-03-21.md) | **特集**：スピーカー設計シミュレーション最前線2026：BEM/FEM・T-Sパラメータ・AIサロゲートモデルが変える開発フロー | BEM, FEM, COMSOL, EASE5, T-Sパラメータ, トポロジー最適化, デジタルツイン, サロゲートモデル, L-Acoustics, VituixCAD, 音響シミュレーション, 設計最適化, AI, マルチフィジックス |
+| [2026-03-21](../reports/2026/03/2026-03-21.md) | （関連）EASE 5 Acousteerリアルタイムエンジン, COMSOL 6.4 Shell磁気連成, Siemens BEMAO広帯域BEM, VituixCAD 2.0.133.4, Scientific Reports キャビネットトポロジー最適化論文 | EASE5, COMSOL, Siemens, VituixCAD, Scientific Reports |
