@@ -108,3 +108,10 @@
 |------|--------|------|
 | [2026-03-21](../reports/2026/03/2026-03-21.md) | **特集**：スピーカー設計シミュレーション最前線2026：BEM/FEM・T-Sパラメータ・AIサロゲートモデルが変える開発フロー | BEM, FEM, COMSOL, EASE5, T-Sパラメータ, トポロジー最適化, デジタルツイン, サロゲートモデル, L-Acoustics, VituixCAD, 音響シミュレーション, 設計最適化, AI, マルチフィジックス |
 | [2026-03-21](../reports/2026/03/2026-03-21.md) | （関連）EASE 5 Acousteerリアルタイムエンジン, COMSOL 6.4 Shell磁気連成, Siemens BEMAO広帯域BEM, VituixCAD 2.0.133.4, Scientific Reports キャビネットトポロジー最適化論文 | EASE5, COMSOL, Siemens, VituixCAD, Scientific Reports |
+
+## ルームアコースティクス補正・DSP部屋補正
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-03-22](../reports/2026/03/2026-03-22.md) | **特集**：ルームアコースティクス補正・DSP部屋補正2026：Dirac Live ART・Trinnov・ARC Genesisが変えるホームオーディオ体験 | ルームアコースティクス, 部屋補正, DSP, Dirac Live, Dirac Live ART, Trinnov, ARC Genesis, Audyssey, WiiM RoomFit, REW, 定在波, MIMO, ルームコレクション, Klipsch, 低音管理 |
+| [2026-03-22](../reports/2026/03/2026-03-22.md) | （関連）Klipsch The Sevens/Nines IIにDirac Live搭載（CES 2026）, Trinnov AltitudeCI AoIP展開, WiiM RoomFit MMM・EQ分離, REW V5.40 beta, AI/ML for Acoustics npj 2025 | Klipsch, Trinnov, AltitudeCI, AoIP, WiiM, REW, npj Acoustics, AI音響 |
