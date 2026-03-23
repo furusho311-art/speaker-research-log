@@ -115,3 +115,10 @@
 |------|--------|------|
 | [2026-03-22](../reports/2026/03/2026-03-22.md) | **特集**：ルームアコースティクス補正・DSP部屋補正2026：Dirac Live ART・Trinnov・ARC Genesisが変えるホームオーディオ体験 | ルームアコースティクス, 部屋補正, DSP, Dirac Live, Dirac Live ART, Trinnov, ARC Genesis, Audyssey, WiiM RoomFit, REW, 定在波, MIMO, ルームコレクション, Klipsch, 低音管理 |
 | [2026-03-22](../reports/2026/03/2026-03-22.md) | （関連）Klipsch The Sevens/Nines IIにDirac Live搭載（CES 2026）, Trinnov AltitudeCI AoIP展開, WiiM RoomFit MMM・EQ分離, REW V5.40 beta, AI/ML for Acoustics npj 2025 | Klipsch, Trinnov, AltitudeCI, AoIP, WiiM, REW, npj Acoustics, AI音響 |
+
+## パワーアンプ技術・Class-D・GaN
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-03-23](../reports/2026/03/2026-03-23.md) | **特集**：パワーアンプ技術革命2026：Class-D × GaN / 多レベル変調が拓く高効率・高忠実度の新地平 | Class-D, GaN, 窒化ガリウム, Infineon, CoolGaN, MERUS, SounDigital, Powersoft, Peak Amplification, EPC, 多レベル変調, PWM, スイッチング周波数, THD, 高効率アンプ, SiC, パワーエレクトロニクス |
+| [2026-03-23](../reports/2026/03/2026-03-23.md) | （関連）SounDigital GAN 1500.5（800kHz・THD 70%低減・サイズ40%縮小）, Powersoft Unica/Nota/AnyMATE, EPC9192リファレンス700W/ch, CEATEC 2025コイン大GaNアンプ展示 | SounDigital, Powersoft, Unica, Nota, AnyMATE, SpeakerMATE, EPC, eGaN |
