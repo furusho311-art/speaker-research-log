@@ -40,6 +40,8 @@
 
 | 日付 | テーマ | タグ |
 |------|--------|------|
+| [2026-03-24](../reports/2026/03/2026-03-24.md) | **特集**：MEMSスピーカー量産元年2026：xMEMS Cypress・Sycamore・SonicEdge TwinがTWSとAIウェアラブルを塗り替える | MEMSスピーカー, xMEMS, Cypress, Sycamore, Sycamore-W, SonicTwin, PiezoMEMS, TWS, AIウェアラブル, スマートグラス, 量産, IDTechEx, Rayking, Alta-S, µCooling |
+| [2026-03-24](../reports/2026/03/2026-03-24.md) | （関連）SonicEdge SonicTwin ST100（8×4×1mm スピーカー+マイク統合）, IDTechEx 2036年27億ドル予測, BleeqUp Rangerスポーツグラス採用 | SonicEdge, SonicTwin, IDTechEx, BleeqUp, スポーツウェアラブル |
 | [2026-03-18](../reports/2026/03/2026-03-18.md) | （関連）xMEMS Cypress量産体制確立, Sycamore早期アクセス開始 | xMEMS, Cypress, Sycamore, MEMSスピーカー |
 | [2026-03-16](../reports/2026/03/2026-03-16.md) | （関連記事）xMEMS Sycamore, sensiBel SBM100B | xMEMS, Sycamore, sensiBel, 光学MEMS |
 
