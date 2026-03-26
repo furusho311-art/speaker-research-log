@@ -132,9 +132,9 @@
 | [2026-03-23](../reports/2026/03/2026-03-23.md) | **特集**：パワーアンプ技術革命2026：Class-D × GaN / 多レベル変調が拓く高効率・高忠実度の新地平 | Class-D, GaN, 窒化ガリウム, Infineon, CoolGaN, MERUS, SounDigital, Powersoft, Peak Amplification, EPC, 多レベル変調, PWM, スイッチング周波数, THD, 高効率アンプ, SiC, パワーエレクトロニクス |
 | [2026-03-23](../reports/2026/03/2026-03-23.md) | （関連）SounDigital GAN 1500.5（800kHz・THD 70%低減・サイズ40%縮小）, Powersoft Unica/Nota/AnyMATE, EPC9192リファレンス700W/ch, CEATEC 2025コイン大GaNアンプ展示 | SounDigital, Powersoft, Unica, Nota, AnyMATE, SpeakerMATE, EPC, eGaN |
 
-## スピーカー製造・生産技術・サプライチェーン
+## 骨伝導・ハプティクス・振動トランスデューサ
 
 | 日付 | テーマ | タグ |
 |------|--------|------|
-| [2026-03-26](../reports/2026/03/2026-03-26.md) | **特集**：スピーカー製造・生産技術2026：Goertek AI工場・3Dプリント・ベトナムシフトが変えるグローバル製造の新地平 | スピーカー製造, Goertek, Foster Electric, 生産自動化, AI品質管理, 3Dプリント, Node Audio, ベトナム, サプライチェーン, ボイスコイル, グリーン製造, アディティブマニュファクチャリング, 製造業DX, ODM, OEM |
-| [2026-03-26](../reports/2026/03/2026-03-26.md) | （関連）Goertek iPhone 16eスピーカーラインAIビジョン検査+レーザー溶接（Apple COO訪問）, Node Audio Atom HTL+MonoCell Bambu Lab FDM量産, Foster Electric車載スピーカーベトナム移管, ベトナム輸出7億ドル超/2034年15.9億ドル予測, グローバル市場82億ドル（2026年） | Goertek, LBS, AI品質検査, Node Audio, Atom, HTL, MonoCell, Bambu Lab, Foster Electric, ベトナム市場, LCA, JBL Eco |
+| [2026-03-26](../reports/2026/03/2026-03-26.md) | **特集**：骨伝導・ハプティクス・振動トランスデューサ技術の最前線2026：DualPitch・圧電インプラント・DML/BMRが拓くポストスピーカー時代 | 骨伝導, ハプティクス, 振動トランスデューサ, Shokz, DualPitch, 圧電素子, DML, BMR, Tectonic, エキサイター, LRA, 触覚フィードバック, バスシェイカー, Cochlear Osia, 圧電骨伝導インプラント, PUI Audio |
+| [2026-03-26](../reports/2026/03/2026-03-26.md) | （関連）Shokz OpenRun Pro 2 DualPitch（骨伝導＋空気伝導デュアルドライバー）, SluTune Q2ピロースピーカー, PUI Audio防水LRA, Tectonic BMR-k曲面振動板, Envoy Medical Acclaim圧電蝸牛インプラント治験, Samsung Music Studio 5/7・Q-Symphony 2026 | Shokz, SluTune, PUI Audio, Tectonic, Envoy Medical, Samsung, CES2026, 圧電スピーカー市場 |
