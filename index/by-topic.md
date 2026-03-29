@@ -4,6 +4,13 @@
 
 ---
 
+## サウンドバー・薄型TV用スピーカー
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-03-29](../reports/2026/03/2026-03-29.md) | **特集**：サウンドバー・薄型TV用スピーカー技術の最前線2026：Dolby Atmos FlexConnect・OLEDピクセル発音・Q-Symphonyが切り拓く新体験 | サウンドバー, 薄型スピーカー, Dolby Atmos FlexConnect, LG Sound Suite, Samsung Q-Symphony, HW-Q990H, TCL A65K, Yamaha True X, Sony Theatre Bar, OLED, 圧電素子, DML, 分散モード振動板, ビームフォーミング, クロストーク除去, CTC, ホームシアター, スマートホーム音響, 市場調査 |
+| [2026-03-29](../reports/2026/03/2026-03-29.md) | （関連）LG H7 FlexConnect 9.1.6ch UWB Sound Follow・Alpha 11 AI Gen3, Samsung HW-Q990H 11.1.4ch Sound Elevation, TCL A65K 2.7インチ筐体460W B&Oチューニング, Yamaha True X Surround 90A（世界初AURO-3D・Surround:AI 5回/秒）, POSTECH OLEDピクセル発音 圧電配列・クロストーク除去13インチ実証（ScienceDaily 2025）, JASA 2025 Kleczkowski et al. 補正済みDML聴取評価77名・空間属性で従来型超え, IEEE 2025 ヘッドレスト型CTC H2/H∞フィルタ, 世界サウンドバー市場$87.6B→$140.7B（CAGR 8.22%） | LG, FlexConnect, Dolby, Samsung, Q-Symphony, Sony, Yamaha, AURO-3D, Klipsch, Dirac, SVS, Sonos, POSTECH, OLED, DML, CTC, JASA, IEEE, 市場調査 |
+
 ## 音響メタマテリアル
 
 | 日付 | テーマ | タグ |
