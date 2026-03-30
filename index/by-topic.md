@@ -159,3 +159,10 @@
 |------|--------|------|
 | [2026-03-26](../reports/2026/03/2026-03-26.md) | **特集**：骨伝導・ハプティクス・振動トランスデューサ技術の最前線2026：DualPitch・圧電インプラント・DML/BMRが拓くポストスピーカー時代 | 骨伝導, ハプティクス, 振動トランスデューサ, Shokz, DualPitch, 圧電素子, DML, BMR, Tectonic, エキサイター, LRA, 触覚フィードバック, バスシェイカー, Cochlear Osia, 圧電骨伝導インプラント, PUI Audio |
 | [2026-03-26](../reports/2026/03/2026-03-26.md) | （関連）Shokz OpenRun Pro 2 DualPitch（骨伝導＋空気伝導デュアルドライバー）, SluTune Q2ピロースピーカー, PUI Audio防水LRA, Tectonic BMR-k曲面振動板, Envoy Medical Acclaim圧電蝸牛インプラント治験, Samsung Music Studio 5/7・Q-Symphony 2026 | Shokz, SluTune, PUI Audio, Tectonic, Envoy Medical, Samsung, CES2026, 圧電スピーカー市場 |
+
+## TWS・イヤホンドライバー技術
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-03-30](../reports/2026/03/2026-03-30.md) | **特集**：TWS・イヤホンドライバー技術の最前線2026：ハイブリッド・MEMS・プラナー磁気が変える個人オーディオ | TWS, イヤホン, ドライバー技術, MEMS, プラナー磁気, バランスドアーマチュア, ハイブリッドドライバー, xMEMS, Otowahr, Knowles, 磁性流体, オープンイヤー, ANC, 空間オーディオ, HRTF, 個人最適化 |
+| [2026-03-30](../reports/2026/03/2026-03-30.md) | （関連）xMEMS Lassen アンプレスMEMSツイーター115dB・Cypress量産開始, Otowahr Lark™ Φ3.5mm プラナー磁気MEMS, Knowles 2〜8ドライバー内蔵クロスオーバーBAファミリー, Sony WF-1000XM6（8.4mm分割ダイアフラム＋QN3e 32bit）, Technics EAH-AZ100磁性流体ドライバー3Hz, Redmi Buds 8 Pro トリプルドライバー55dB ANC MWC2026, Cleer ARC 5 Snapdragon aptX Lossless, Final TONALITE 3D耳スキャンHRTF個人化, arXiv 2512.17708 MEMSスピーカー総合レビュー, MDPI 2025 逆モデルMEMS EQ補正, ScienceDirect 2025 115dB in-ear MEMS, AES Headphone Conference 2025 | xMEMS, Otowahr, Knowles, Sony, Technics, Redmi, Cleer, EarFun, Final, Shokz, Soundcore, Qualcomm, MEMS, planar, BA, AES, arXiv |
