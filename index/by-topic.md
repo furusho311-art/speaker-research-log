@@ -4,6 +4,13 @@
 
 ---
 
+## カーオーディオ・車室内音響
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-03-31](../reports/2026/03/2026-03-31.md) | **特集**：カーオーディオ・車室内音響2026：EV静粛性×空間オーディオ×ANCが拓く次世代インカービン体験 | カーオーディオ, 車載スピーカー, EV, 空間オーディオ, Dolby Atmos, ANC, ロードノイズキャンセル, Pioneer SPHERA, Cadillac, Yamaha, パーソナルサウンドゾーン, BEV, DSP, Harman, RANC, 車室内音響 |
+| [2026-03-31](../reports/2026/03/2026-03-31.md) | （関連）Pioneer SPHERA 世界初アフターマーケット向けDolby Atmos CarPlay受信機（CES 2026・$1,300〜）, Cadillac全2026EV車種AKG 19スピーカーDolby Atmos, Tesla Cybertruck ANC OTA更新（2026.2.6.1・4マイク＋15スピーカー）, Yamaha Music:AI リアルタイム音場最適化（三菱アウトランダー・トヨタbZ3X）, BYD/NIO/Zeekr 12〜23スピーカー競争, arXiv SPMnet車室音場再現ディープ最適化, ScienceDirect 2025 ANCパーソナルサウンドゾーン（4.7dB・2.8dB抑圧）, AES第6回国際自動車オーディオ会議2026 | Pioneer, SPHERA, CarPlay, Cadillac, AKG, Tesla, Cybertruck, Yamaha, Music:AI, Mitsubishi, Toyota, BYD, NIO, Zeekr, Harman, Bose, B&O, Acura, RANC, SPMnet, arXiv, AES |
+
 ## サウンドバー・薄型TV用スピーカー
 
 | 日付 | テーマ | タグ |
