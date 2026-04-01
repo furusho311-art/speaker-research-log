@@ -103,6 +103,8 @@
 
 | 日付 | テーマ | タグ |
 |------|--------|------|
+| [2026-04-01](../reports/2026/04/2026-04-01.md) | **特集**：AI・機械学習×音響設計の最前線2026：PINNs・サロゲートモデル・ニューラル歪み補償がスピーカー開発を再定義する | AI, 機械学習, 音響設計, PINN, 物理情報ニューラルネットワーク, サロゲートモデル, ニューラルEQ, 非線形歪み補償, npj Acoustics, ICML, Goertek, Brane Audio, RAD2, ルーム音響, 音場再現, WaveNet, ディープラーニング, DSP, 自動チューニング, AcousticsML |
+| [2026-04-01](../reports/2026/04/2026-04-01.md) | （関連）npj Acoustics MLレビュー＋AcousticsMLリポジトリ公開, PINNs 3D室内音場予測（Applied Sciences 2025）, MERL Physics-Informed DANF FOA RIR生成, arXiv 2412.01092 WaveNetベースPAL非線形歪み補償, Goertek DL-ASR前段処理（遠距離97%精度）, Brane Audio RAD2 30倍低音効率ドライバー（CES 2026）, ICML 2026 ML for Audio Workshop（ソウル7月）, IEEE ICASSP 2026（バルセロナ5月）, AES Europe 2026・AES自動車オーディオ会議・AVARIG2026 | npj Acoustics, AcousticsML, PINNs, MERL, DANF, WaveNet, PAL, Goertek, Brane Audio, RAD2, ICML, ICASSP, AES, 市場調査 |
 | [2026-03-18](../reports/2026/03/2026-03-18.md) | （関連）AI振動板最適化設計, Goertek ASRフロントエンド, ニューラルビームフォーミング | AI, 機械学習, スピーカー設計最適化, DSP |
 
 ## 測定・解析・評価技術
