@@ -64,6 +64,8 @@
 |------|--------|------|
 | [2026-03-18](../reports/2026/03/2026-03-18.md) | 振動板材料革命2026：超薄板ガラス・グラフェン・CNFが拓く次世代スピーカーサウンド | 振動板材料, 超薄板ガラス, グラフェン, セルロースナノファイバー, 日本電気硝子, Alpair5G, ORA GrapheneQ, バイオマテリアル |
 | [2026-03-18](../reports/2026/03/2026-03-18.md) | （関連）薄型カーボンファイバー Oxeon TeXtreme, 3Dプリント Node Audio Atom | カーボンファイバー, 3Dプリント |
+| [2026-04-02](../reports/2026/04/2026-04-02.md) | **特集**：振動板・材料技術の最前線2026：超薄板ガラス・ナノグラフェン・航空宇宙フォーム・ポリマーMEMSが拓くスピーカーの新境地 | 振動板, 材料技術, Dinorex UTG, 超薄板ガラス, ナノグラフェン, Magico, Nano-Tec Gen 8, ROHACELL, Yamaha, Wilson Benesch, アディティブマニュファクチャリング, MEMS, PZT, ポリマー振動板, カーボンファイバー, Focal, ベリリウム, CNT, 3Dプリント |
+| [2026-04-02](../reports/2026/04/2026-04-02.md) | （関連）NEG Dinorex UTG 25μm超薄板ガラス振動板×MarkAudio世界初実用化, Magico S7 2026 Nano-Tec Gen 8グラフェン強化カーボンサンドイッチコーン, Yamaha Design Lab ROHACELL PMIフォーム4コンセプト, Nature Comms Eng ポリマーMEMS PZT薄膜スピーカー, Wilson Benesch Fibonacci AM, xMEMSシリコン振動板, Focal W Sandwich/純ベリリウム, 三菱NCV CNT振動板, 超薄木材バイオマス振動板4880Hz | NEG, Dinorex UTG, MarkAudio, GAIT, Magico, S7 2026, Nano-Tec Gen 8, ナノグラフェン, Yamaha, ROHACELL, PMI, Wilson Benesch, Fibonacci, xMEMS, Focal, ベリリウム, 三菱電機, NCV, CNT, バイオマス |
 
 ## 材料・磁石
 
