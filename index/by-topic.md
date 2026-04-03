@@ -177,3 +177,10 @@
 |------|--------|------|
 | [2026-03-30](../reports/2026/03/2026-03-30.md) | **特集**：TWS・イヤホンドライバー技術の最前線2026：ハイブリッド・MEMS・プラナー磁気が変える個人オーディオ | TWS, イヤホン, ドライバー技術, MEMS, プラナー磁気, バランスドアーマチュア, ハイブリッドドライバー, xMEMS, Otowahr, Knowles, 磁性流体, オープンイヤー, ANC, 空間オーディオ, HRTF, 個人最適化 |
 | [2026-03-30](../reports/2026/03/2026-03-30.md) | （関連）xMEMS Lassen アンプレスMEMSツイーター115dB・Cypress量産開始, Otowahr Lark™ Φ3.5mm プラナー磁気MEMS, Knowles 2〜8ドライバー内蔵クロスオーバーBAファミリー, Sony WF-1000XM6（8.4mm分割ダイアフラム＋QN3e 32bit）, Technics EAH-AZ100磁性流体ドライバー3Hz, Redmi Buds 8 Pro トリプルドライバー55dB ANC MWC2026, Cleer ARC 5 Snapdragon aptX Lossless, Final TONALITE 3D耳スキャンHRTF個人化, arXiv 2512.17708 MEMSスピーカー総合レビュー, MDPI 2025 逆モデルMEMS EQ補正, ScienceDirect 2025 115dB in-ear MEMS, AES Headphone Conference 2025 | xMEMS, Otowahr, Knowles, Sony, Technics, Redmi, Cleer, EarFun, Final, Shokz, Soundcore, Qualcomm, MEMS, planar, BA, AES, arXiv |
+
+## プロオーディオ・PAスピーカー
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-04-04](../reports/2026/04/2026-04-04.md) | **特集**：プロオーディオ・PAスピーカーの最前線2026：コンパクトカーディオイドラインアレイ・鉄窒化物磁石・バッテリー駆動PAが変える設備音響とライブサウンド | プロオーディオ, PAスピーカー, ラインアレイ, d&b audiotechnik, CCL, CCLi, カーディオイド, QSC, CB10, LS218, FaitalPRO, Niron Magnetics, 鉄窒化物磁石, AtlasIED, Fyne Audio, IsoFlare, Dante, PoE++, L-Acoustics, L-ISA, Holoplot, ArrayCalc, EASE 5, バッテリー駆動, イマーシブオーディオ, 設備音響, ISE 2026, NAMM 2026 |
+| [2026-04-04](../reports/2026/04/2026-04-04.md) | （関連）d&b CCLi 60Hz以下カーディオイド指向性×Inavation Awards受賞, QSC CB10 12時間バッテリー駆動PA＋LS218 5,000W Dante対応デュアル18インチサブ, FaitalPRO×Niron 鉄窒化物磁石8/10インチドライバー, AtlasIED×Fyne Audio IsoFlare Dante PoE++天井/壁面スピーカー, L-Acoustics CAN Festival L-ISA 170本360°＋LA1.16i 1U 16ch, d&b ArrayCalc V12 CCLiシミュレーション, arXiv SPPAL段付き板パラメトリックアレイ | d&b audiotechnik, CCLi, Inavation Awards, QSC, CB10, LS218, FaitalPRO, Niron, 鉄窒化物, AtlasIED, Fyne Audio, IsoFlare, L-Acoustics, L-ISA, LA1.16i, ArrayCalc V12, arXiv, SPPAL |
