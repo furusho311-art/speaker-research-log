@@ -184,3 +184,10 @@
 |------|--------|------|
 | [2026-04-04](../reports/2026/04/2026-04-04.md) | **特集**：プロオーディオ・PAスピーカーの最前線2026：コンパクトカーディオイドラインアレイ・鉄窒化物磁石・バッテリー駆動PAが変える設備音響とライブサウンド | プロオーディオ, PAスピーカー, ラインアレイ, d&b audiotechnik, CCL, CCLi, カーディオイド, QSC, CB10, LS218, FaitalPRO, Niron Magnetics, 鉄窒化物磁石, AtlasIED, Fyne Audio, IsoFlare, Dante, PoE++, L-Acoustics, L-ISA, Holoplot, ArrayCalc, EASE 5, バッテリー駆動, イマーシブオーディオ, 設備音響, ISE 2026, NAMM 2026 |
 | [2026-04-04](../reports/2026/04/2026-04-04.md) | （関連）d&b CCLi 60Hz以下カーディオイド指向性×Inavation Awards受賞, QSC CB10 12時間バッテリー駆動PA＋LS218 5,000W Dante対応デュアル18インチサブ, FaitalPRO×Niron 鉄窒化物磁石8/10インチドライバー, AtlasIED×Fyne Audio IsoFlare Dante PoE++天井/壁面スピーカー, L-Acoustics CAN Festival L-ISA 170本360°＋LA1.16i 1U 16ch, d&b ArrayCalc V12 CCLiシミュレーション, arXiv SPPAL段付き板パラメトリックアレイ | d&b audiotechnik, CCLi, Inavation Awards, QSC, CB10, LS218, FaitalPRO, Niron, 鉄窒化物, AtlasIED, Fyne Audio, IsoFlare, L-Acoustics, L-ISA, LA1.16i, ArrayCalc V12, arXiv, SPPAL |
+
+## スマートスピーカー・音響設計・AI
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-04-05](../reports/2026/04/2026-04-05.md) | **特集**：スマートスピーカー音響設計の最前線2026：AI専用チップ・空間聴覚AI・オンデバイス推論が変えるボイスファースト時代のスピーカーアーキテクチャ | スマートスピーカー, AI, 音響設計, Amazon Echo Studio, AZ3 Pro, Google Home, Gemini, Apple HomePod, OpenAI, Jony Ive, Goertek, Luxshare, Kardome, 空間聴覚AI, ビームフォーミング, MEMSマイクロフォン, NPU, オンデバイス処理, Alexa Plus, Dolby Atmos, Sonos Era 300, 音声AI, エッジコンピューティング |
+| [2026-04-05](../reports/2026/04/2026-04-05.md) | （関連）Amazon Echo Studio AZ3 Pro 40%小型化4ドライバーDolby Atmos, Echo Dot Max 2ウェイ3倍低音ハウジング直結密閉, Google Homeスピーカー Gemini搭載360°$99.99（2026春）, Apple HomePod mini 2/HomePod Touch計画, OpenAI Jony Ive設計カメラ付きAIスピーカーGoertek/Luxshare製造$200-300, Kardome空間聴覚AI 3D音源分離オンデバイス, Denon Home 200/400 HEOS Dolby Atmos, JBL Xtreme 5 AI SmartEQ, Samsung Q-Symphony最大5台統合, Sonos Era 300空間オーディオリファレンス, arXiv マイクロフォンアレイレビュー/HyBeam/ロボットアームアレイ | Amazon, Echo Studio, AZ3 Pro, Echo Dot Max, Google, Gemini, Apple, HomePod, OpenAI, Jony Ive, Goertek, Luxshare, Kardome, Denon, JBL, Samsung, Sonos, arXiv, ICASSP, HyBeam, MEMS |
