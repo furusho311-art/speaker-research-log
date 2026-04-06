@@ -2,9 +2,7 @@ name: Report Push Notification
 
 on:
   push:
-    paths:
-      - 'reports/**/*.md'
-
+        branches: [main]
 permissions:
   issues: write
 
