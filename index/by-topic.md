@@ -191,3 +191,10 @@
 |------|--------|------|
 | [2026-04-05](../reports/2026/04/2026-04-05.md) | **特集**：AXPONA 2026直前特集：Revel Performa4・Magico S7 2026・Dinaburg C2S・Brane RAD2——次世代トランスデューサ技術が集結するハイファイの祭典と、MEMSスピーカー・空間音響研究の最前線 | AXPONA 2026, Revel, Performa4, DCC, MCC, Acoustic Lens, HARMAN, Magico, S7 2026, Nano-Tec Gen 8, グラフェン, ベリリウム, Dinaburg, C2S, 同軸トランスデューサ, Brane Audio, RAD2, サブバス, MEMS スピーカー, 圧電, PZT, ScAlN, Resonado, Res-Core, AKABAK, BEM, 空間音響, arXiv, 室内音響, ラウドスピーカー市場 |
 | [2026-04-05](../reports/2026/04/2026-04-05.md) | （関連）Revel Performa4 DCC/MCCセラミック複合材振動板＋第7世代Acoustic Lens F346 $6,999, Magico S7 2026 Nano-Tec Gen 8グラフェン強化カーボン＋28mmダイヤモンドコートベリリウム $211,000, Dinaburg C2S背面波100%活用同軸パッシブラジエーター, Brane RAD2 30倍サブバス性能Party Pro 1,000cc変位, Resonado Res-Core Gen 2 30%性能向上20%コスト削減, AKABAK 3.3.1 DefDriverオブジェクト＋BEM改善, arXiv MEMSスピーカー包括レビュー/空間音響・室内音響サーベイ, Nature ポリマーPZT MEMS/圧電MEMS FoM | Revel, Performa4, DCC, MCC, Magico, S7 2026, Nano-Tec Gen 8, Dinaburg, C2S, Brane Audio, RAD2, Resonado, Res-Core, AKABAK, arXiv, Nature, MEMS, PZT, ScAlN |
+
+## AI・機械学習×音響
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-04-06](../reports/2026/04/2026-04-06.md) | **特集**：AI・機械学習×音響の最前線2026：ニューラル音場合成・非線形スピーカー補償・LLMメタマテリアル設計・エッジオーディオAIが変える音響エンジニアリング | AI, 機械学習, ニューラルネットワーク, 音響シミュレーション, DeepONet, サロゲートモデル, Klippel, KCS, 非線形補償, Nuvoton, スマートアンプ, 音響メタマテリアル, LLM, 逆設計, npj Acoustics, AcousticsML, ICML 2026, AES AIMLA, MERL, ニューラル音場, RIR, エッジAI, Qwen3-TTS |
+| [2026-04-06](../reports/2026/04/2026-04-06.md) | （関連）DeepONet 3Dリアルタイム音場予測（PNAS）, Klippel KCS×Nuvoton NAU83G60ステレオ2×30Wスマートアンプ量産, LLM音響メタマテリアル逆設計（Scientific Reports・ChatGPT/DeepSeek）, npj Acoustics ML包括レビュー＋AcousticsML GitHub, ICML 2026 Learning to Listenワークショップ（ソウル7月）, MERL GenDARA 2025チャレンジ優勝・Physics-Informed Neural Acoustic Fields, NAMS RIR合成（arXiv 2509.17410）, エッジAI Qwen3-TTS 97ms・Voxtral TTS・Kokoro 82Mパラメータ, Meta SAM Audio統合音源分離, AES AIMLA 2025ロンドン | DeepONet, PNAS, Klippel, KCS, Nuvoton, NAU83G60, LLM, ChatGPT, DeepSeek, Scientific Reports, npj Acoustics, AcousticsML, ICML, MERL, GenDARA, NAMS, Qwen3-TTS, Voxtral, Kokoro, Meta, SAM Audio, AES AIMLA |
