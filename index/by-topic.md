@@ -198,3 +198,10 @@
 |------|--------|------|
 | [2026-04-06](../reports/2026/04/2026-04-06.md) | **特集**：AI・機械学習×音響の最前線2026：ニューラル音場合成・非線形スピーカー補償・LLMメタマテリアル設計・エッジオーディオAIが変える音響エンジニアリング | AI, 機械学習, ニューラルネットワーク, 音響シミュレーション, DeepONet, サロゲートモデル, Klippel, KCS, 非線形補償, Nuvoton, スマートアンプ, 音響メタマテリアル, LLM, 逆設計, npj Acoustics, AcousticsML, ICML 2026, AES AIMLA, MERL, ニューラル音場, RIR, エッジAI, Qwen3-TTS |
 | [2026-04-06](../reports/2026/04/2026-04-06.md) | （関連）DeepONet 3Dリアルタイム音場予測（PNAS）, Klippel KCS×Nuvoton NAU83G60ステレオ2×30Wスマートアンプ量産, LLM音響メタマテリアル逆設計（Scientific Reports・ChatGPT/DeepSeek）, npj Acoustics ML包括レビュー＋AcousticsML GitHub, ICML 2026 Learning to Listenワークショップ（ソウル7月）, MERL GenDARA 2025チャレンジ優勝・Physics-Informed Neural Acoustic Fields, NAMS RIR合成（arXiv 2509.17410）, エッジAI Qwen3-TTS 97ms・Voxtral TTS・Kokoro 82Mパラメータ, Meta SAM Audio統合音源分離, AES AIMLA 2025ロンドン | DeepONet, PNAS, Klippel, KCS, Nuvoton, NAU83G60, LLM, ChatGPT, DeepSeek, Scientific Reports, npj Acoustics, AcousticsML, ICML, MERL, GenDARA, NAMS, Qwen3-TTS, Voxtral, Kokoro, Meta, SAM Audio, AES AIMLA |
+
+## スマートスピーカー・音声インターフェース音響
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-04-07](../reports/2026/04/2026-04-07.md) | **特集**：スマートスピーカー音響技術の最前線2026：Alexa+×Omnisense・Google Home Gemini・OpenAI×Jony Ive——生成AIが再定義する音声インターフェースと音響設計 | スマートスピーカー, 音声インターフェース, Amazon Echo, Alexa+, Omnisense, Echo Dot Max, Echo Studio, Google Home, Gemini, Apple HomePod, OpenAI, Jony Ive, Sonos, エッジAI, マイクアレイ, ビームフォーミング, エコーキャンセル, AEC, Matter, 360度サウンド |
+| [2026-04-07](../reports/2026/04/2026-04-07.md) | （関連）Amazon Echo Dot Max 3倍低音球体設計＋Omnisenseセンサー融合自動音場最適化, 新Echo Studio 球体デザイン＋Dolby Atmos, Google Home Speaker $99 Gemini搭載360度サウンド2026年春19カ国発売, OpenAI×Jony Ive カメラ内蔵AIスマートスピーカー2027年$200-300, Sonos Play＆Era 100 SLマイクフリー設計, IKEA KALLSUP $9.99メッシュBTスピーカー, Ambiq soundKIT常時オンエッジ音声AI, Microchip軽量KWSソリューション, arXiv小フットプリントAECフルデュプレクス, IEEEニューラルAEC×ビームフォーミング統合制御 | Amazon, Echo Dot Max, Echo Studio, Omnisense, Google, Gemini, Apple, HomePod, OpenAI, Jony Ive, Sonos, IKEA, Ambiq, Microchip, arXiv, IEEE, Interspeech, AEC |
