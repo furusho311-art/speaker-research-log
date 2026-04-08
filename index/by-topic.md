@@ -205,3 +205,11 @@
 |------|--------|------|
 | [2026-04-07](../reports/2026/04/2026-04-07.md) | **特集**：スマートスピーカー音響技術の最前線2026：Alexa+×Omnisense・Google Home Gemini・OpenAI×Jony Ive——生成AIが再定義する音声インターフェースと音響設計 | スマートスピーカー, 音声インターフェース, Amazon Echo, Alexa+, Omnisense, Echo Dot Max, Echo Studio, Google Home, Gemini, Apple HomePod, OpenAI, Jony Ive, Sonos, エッジAI, マイクアレイ, ビームフォーミング, エコーキャンセル, AEC, Matter, 360度サウンド |
 | [2026-04-07](../reports/2026/04/2026-04-07.md) | （関連）Amazon Echo Dot Max 3倍低音球体設計＋Omnisenseセンサー融合自動音場最適化, 新Echo Studio 球体デザイン＋Dolby Atmos, Google Home Speaker $99 Gemini搭載360度サウンド2026年春19カ国発売, OpenAI×Jony Ive カメラ内蔵AIスマートスピーカー2027年$200-300, Sonos Play＆Era 100 SLマイクフリー設計, IKEA KALLSUP $9.99メッシュBTスピーカー, Ambiq soundKIT常時オンエッジ音声AI, Microchip軽量KWSソリューション, arXiv小フットプリントAECフルデュプレクス, IEEEニューラルAEC×ビームフォーミング統合制御 | Amazon, Echo Dot Max, Echo Studio, Omnisense, Google, Gemini, Apple, HomePod, OpenAI, Jony Ive, Sonos, IKEA, Ambiq, Microchip, arXiv, IEEE, Interspeech, AEC |
+
+
+## ホームオーディオ・AVレシーバー
+
+| 日付 | テーマ | タグ |
+|-------|---------|------|
+| [2026-04-08](../reports/2026/04/2026-04-08.md) | **特集**：ホームオーディオ・AVレシーバー2026：Arcam Radia AV×Dirac Live ART・miniDSP Tide16・AXPONA直前——DSP進化とハイファイ新機軸が再定義する家庭内音響体験 | ホームオーディオ, AVレシーバー, Arcam, Radia AV, Dirac Live, Dirac Live ART, miniDSP, Tide16, AXPONA 2026, Perlisten, KEF, ATC, Dolby Atmos, Auro-3D, DTS:X Pro, バス管理, ルームコレクション, フロアスタンディングスピーカー, Class AB, 16チャンネル, ホームシアター |
+| [2026-04-08](../reports/2026/04/2026-04-08.md) | （関連）Arcam Radia AVA15/AVA25/AVA35/AVP45 ISE 2026発表（$3,000〜$7,000・9ch Class AB・Dirac Live ART内蔵・Q3 2026発売）, miniDSP Tide16 $3,500 16ch XLRバランス Dolby Atmos/DTS:X Pro + Dirac RC+BC+ART標準搭載, AXPONA 2026（4/10〜12・Schaumburg）Magico S7 2026/ATC EL50 Anniversary（$99,999/50組限定）/Perlisten Xシリーズ世界初公開, Marantz Cinema 50 9×110W/Cinema 40 Dirac Live RC+Auro-3D, 2025年AVR停滞からの2026年ルネッサンス | Arcam, Radia AV, AVA15, AVA25, AVA35, AVP45, ISE 2026, Dirac Live ART, miniDSP, Tide16, AXPONA, Magico, ATC, EL50, Perlisten, X Series, Marantz, Cinema 50, Auro-3D |
