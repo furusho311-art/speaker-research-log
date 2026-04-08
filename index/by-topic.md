@@ -213,3 +213,9 @@
 |-------|---------|------|
 | [2026-04-08](../reports/2026/04/2026-04-08.md) | **特集**：ホームオーディオ・AVレシーバー2026：Arcam Radia AV×Dirac Live ART・miniDSP Tide16・AXPONA直前——DSP進化とハイファイ新機軸が再定義する家庭内音響体験 | ホームオーディオ, AVレシーバー, Arcam, Radia AV, Dirac Live, Dirac Live ART, miniDSP, Tide16, AXPONA 2026, Perlisten, KEF, ATC, Dolby Atmos, Auro-3D, DTS:X Pro, バス管理, ルームコレクション, フロアスタンディングスピーカー, Class AB, 16チャンネル, ホームシアター |
 | [2026-04-08](../reports/2026/04/2026-04-08.md) | （関連）Arcam Radia AVA15/AVA25/AVA35/AVP45 ISE 2026発表（$3,000〜$7,000・9ch Class AB・Dirac Live ART内蔵・Q3 2026発売）, miniDSP Tide16 $3,500 16ch XLRバランス Dolby Atmos/DTS:X Pro + Dirac RC+BC+ART標準搭載, AXPONA 2026（4/10〜12・Schaumburg）Magico S7 2026/ATC EL50 Anniversary（$99,999/50組限定）/Perlisten Xシリーズ世界初公開, Marantz Cinema 50 9×110W/Cinema 40 Dirac Live RC+Auro-3D, 2025年AVR停滞からの2026年ルネッサンス | Arcam, Radia AV, AVA15, AVA25, AVA35, AVP45, ISE 2026, Dirac Live ART, miniDSP, Tide16, AXPONA, Magico, ATC, EL50, Perlisten, X Series, Marantz, Cinema 50, Auro-3D |
+
+## ヘッドフォン・プラナーマグネティック技術
+
+| 日付 | テーマ | タグ |
+|--------|---------|------|
+| [2026-04-09](../reports/2026/04/2026-04-09.md) | **特集**：ヘッドフォン技術の最前線2026：WiFiプラナー・SLAM・FSFM——CanJam NYC＆NAMM発の革新がハイファイリスニングを再定義する | ヘッドフォン, 平面磁気型, プラナーマグネティック, HiFiMAN, Arya WiFi, HE1000 WiFi, Audeze, LCD-5s, SLAM, FSFM, Grell, OAE2, CanJam NYC 2026, NAMM 2026, R2R DAC, Himalaya DAC, WiFiオーディオ, 空間音響 |
