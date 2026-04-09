@@ -191,6 +191,7 @@
 |------|--------|------|
 | [2026-04-05](../reports/2026/04/2026-04-05.md) | **特集**：AXPONA 2026直前特集：Revel Performa4・Magico S7 2026・Dinaburg C2S・Brane RAD2——次世代トランスデューサ技術が集結するハイファイの祭典と、MEMSスピーカー・空間音響研究の最前線 | AXPONA 2026, Revel, Performa4, DCC, MCC, Acoustic Lens, HARMAN, Magico, S7 2026, Nano-Tec Gen 8, グラフェン, ベリリウム, Dinaburg, C2S, 同軸トランスデューサ, Brane Audio, RAD2, サブバス, MEMS スピーカー, 圧電, PZT, ScAlN, Resonado, Res-Core, AKABAK, BEM, 空間音響, arXiv, 室内音響, ラウドスピーカー市場 |
 | [2026-04-05](../reports/2026/04/2026-04-05.md) | （関連）Revel Performa4 DCC/MCCセラミック複合材振動板＋第7世代Acoustic Lens F346 $6,999, Magico S7 2026 Nano-Tec Gen 8グラフェン強化カーボン＋28mmダイヤモンドコートベリリウム $211,000, Dinaburg C2S背面波100%活用同軸パッシブラジエーター, Brane RAD2 30倍サブバス性能Party Pro 1,000cc変位, Resonado Res-Core Gen 2 30%性能向上20%コスト削減, AKABAK 3.3.1 DefDriverオブジェクト＋BEM改善, arXiv MEMSスピーカー包括レビュー/空間音響・室内音響サーベイ, Nature ポリマーPZT MEMS/圧電MEMS FoM | Revel, Performa4, DCC, MCC, Magico, S7 2026, Nano-Tec Gen 8, Dinaburg, C2S, Brane Audio, RAD2, Resonado, Res-Core, AKABAK, arXiv, Nature, MEMS, PZT, ScAlN |
+| [2026-04-10](../reports/2026/04/2026-04-10.md) | **特集**：AXPONA 2026開幕特集：Jones and Cerreta Troubadourが告げるフィールドコイル復権と次世代ハイファイの最前線 | AXPONA 2026, Jones and Cerreta, Troubadour, フィールドコイル, 同軸ドライバー, Andrew Jones, Dynaudio, Legend, Esotar 3, Paradigm, Premier v2, AL-MAC, Carbon-X, Perlisten, X Series, SVS, 3000 Micro, Focal, Mu-so Hekla, Dolby Atmos, 近接場音響ホログラフィ, Salford, IOA |
 
 ## AI・機械学習×音響
 
