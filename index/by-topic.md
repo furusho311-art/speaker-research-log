@@ -220,3 +220,9 @@
 | 日付 | テーマ | タグ |
 |--------|---------|------|
 | [2026-04-09](../reports/2026/04/2026-04-09.md) | **特集**：ヘッドフォン技術の最前線2026：WiFiプラナー・SLAM・FSFM——CanJam NYC＆NAMM発の革新がハイファイリスニングを再定義する | ヘッドフォン, 平面磁気型, プラナーマグネティック, HiFiMAN, Arya WiFi, HE1000 WiFi, Audeze, LCD-5s, SLAM, FSFM, Grell, OAE2, CanJam NYC 2026, NAMM 2026, R2R DAC, Himalaya DAC, WiFiオーディオ, 空間音響 |
+
+## ワイヤレスオーディオ・Bluetooth LE Audio
+
+| 日付 | テーマ | タグ |
+|--------|---------|------|
+| [2026-04-16](../reports/2026/04/2026-04-16.md) | **特集**：Auracast公共展開元年2026：Frankfurt空港・National Theatre・Disney——LE Audioブロードキャスト | Auracast, LE Audio, LC3, PBP, BASS, Frankfurt Airport, Disney, Samsung Music Studio, Jamo, iPhone 17, AEC, EchoFree, ICASSP 2026 |
