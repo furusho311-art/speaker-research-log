@@ -1,0 +1,259 @@
+# ====================================================================
+# Daily Speaker Research Report — GitHub Actions Workflow
+# ====================================================================
+# Place this file at:
+#   .github/workflows/daily-report.yml
+# in the furusho311-art/speaker-research-log repository.
+#
+# Setup:
+#   1. Run `claude setup-token` locally to get an OAuth token
+#   2. Add it as a repository secret named CLAUDE_CODE_OAUTH_TOKEN
+#   3. Push this file to main branch
+#   4. Test with "Run workflow" button on Actions tab
+# ====================================================================
+
+name: Daily Speaker Research Report
+
+on:
+  schedule:
+    # UTC 22:00 = JST 07:00 (毎朝7時に実行)
+    - cron: '0 22 * * *'
+  workflow_dispatch: # 手動実行ボタンも有効
+
+permissions:
+  contents: write
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      # ---- 1. リポジトリをチェックアウト ----
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # ---- 2. git ユーザー設定 ----
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      # ---- 3. Claude Code でレポート生成 ----
+      - name: Generate daily report with Claude
+        uses: anthropics/claude-code-base-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          allowed_tools: "WebSearch,WebFetch,Bash,Read,Write,Edit,Grep,Glob"
+          prompt: |
+            あなたはスピーカー・音響技術の研究ログリポジトリの自動レポート生成エージェントです。
+            リポジトリはカレントディレクトリにチェックアウト済みです。
+
+            以下の手順でレポートを生成し057、git commit & push してください。
+
+            ---
+
+            ## ステップ1: 日付と既存レポートの確認
+
+            1. 今日の日付を確認する（YYYY-MM-DD形式）
+            2. `reports/` ディレクトリを確認し、今日分のレポートファイルが既に存在する場合はタスクを終了する
+            3. `index/by-topic.md` を読み込み、**過去のレポートで取り上げたテーマ・記事・URLを把握する**（同じ記事・同じURLを二度使わないために必須）
+
+            ---
+
+            ## ステップ2: 業界全体の最新動向を幅広く調査（WebSearch 10~14回）
+
+            スピーカー・音響業界全体を対象に、**当日の最新ニュース・発表・論文を幅広くスキャンする**。検索対象のカテゴリや技術領域はあらかじめ固定しない。エージェントが自由に判断して検索クエリを設計してよい。
+
+            ただし、以下の"観点を必ず網羅することを観点を必ず網羅することを
+
+            ### 製品・市場ニュース（英語2~3回、日本語1~2回）
+            - PA・プロオーディオ、ホームオーディオ、カーオーディオ、イヤホン/ヘッドホン、サウンドバー、スマートスピーカー、MEMSスピーカー、8d85音波スピーカー、ハプティクス、骨伝導など**業界全体**を横断的にスキャンする
+            - ホームオーディオは新製品・新技術ニュースのみ対象。主観的な音質評価レビューや定量的でない評論記事は対象外
+            - 当日または直近日の現在のタイムリーなニュースを優先する
+
+            ### 技術・研究（英語2~3回）
+            - 振動板・磁気回路・エンクロージャ・DSP・BEM/FEM・非線形音響・音響メタマテリアル・AI×音響・イマーシブオーディオ・心理音響など、**気になる技術領18域を自由に探索**する
+
+            ### 論文・特許（**毎回必ず2~3回**）
+            以下のソースを必ず検索する（クエリはエージェントが設計する）：
+            - JASA（Journal of the Acoustical Society of America）: `site:asa.scitation.org`
+            - AES Journal / AES Convention: `site:aes.org`
+            - arXiv (eess.AS, cs.SD, physics.class-ph): `site:arxiv.org`
+            - IEEE Transactions on Audio, Speech, and Language Processing
+            - USPTO / EPO 特許公開（週1~2回程度で可）
+
+            ### 業界・ビジネス（1~2回）
+            - メーカーの決算・買収・提携・戦略発表
+            - 市場規模・成長率レポート
+            - サプライチェーン・製造技術の動向
+
+            **重要**: 検索クエリはエージェントが自由に考案してよい。上記は参考観点であり、検索対象を制限するものではない。
+
+            ---
+
+            ## ステップ3: テーマの選定
+
+            収集した情報全体を俯瞰し、**エージェント自身が最も価値24あるテーマを選定する**。
+
+            選定の基準（優先順位はエージェントが状況に応じて判断する）：
+            - 当日のタイムリーなニュース・発表・学会・特許公開がある
+            - 過去のレポートでまだカバーしていない領域・視点
+            - 複数のニュースや論文が同一テーマに集中しており特集記事として深掘りできる
+            - PA・プロオーディオ関連はやや積極的に取り上げてよい
+            - 研究論文・特許の新情報が充実している場合はそれを特集に選んでもよい
+
+            テーマは1本のレポートにまとめる。複数の小テーマを拾い集めた「まとめ記事」でも、1つの大テーマを深掘りした「特集記事」でもよい。
+
+            ---
+
+            ## ステップ4: レポートの生成
+
+            以下フォーマットで `reports/YYYY/MM/YYYY-MM-DD.md` を生成する。
+            ディレクトリが存在しない場合は `mkdir -p` で作成すること。
+
+            ```markdown
+            ---
+            date: YYYY-MM-DD
+            theme: "テーマタイトル（50~80字程度）"
+            tags:
+              - タグ1
+              - タグ2
+              （関連タグは10~25個。論文・特許があればJASA/AES/arXivなどもタグに追加）
+            summary: "200~300字の要約"
+            ---
+
+            # テーマタイトル
+
+            ---
+
+            ## 今日のハイライト
+
+            - **トピック1**: 概要（1~2行）
+            - **トピック2**: 概要
+            - **トピック3**: 概要
+            - **トピック4**: 概要
+            - **トピック5**: 概要
+
+            ---
+
+            ## 目次
+
+            1. [特集：メインテーマ](#特集)
+            2. [業界ニュース・新製品](#業界ニュース)
+            3. [技術トレンド・注目技術](#技術トレンド)
+            4. [論文・特許・規格](#論文特許)
+
+            ---
+
+            ## 特集：メインテーマ {#特集}
+n            （2000~3000字の詳細特集記事。背景・現状・各社の動き・技術的詳細・今後の展望を網羅）
+
+            ---
+
+            ## 業界ニュース・新製品 {#業界ニュース}
+
+            ### トピック1タイトル
+            （300~500字の解説。**出典リンクを必ず付ける**）
+
+            ### トピック2タイトル
+            （300~500字の解説。**出典リンクを必ず付ける**）
+
+            ---
+
+            ## 技術トレンド・注目技術 {#技術トレンド}
+
+            （技術的な深掘り、500~800字。**出典リンクを必ず付ける**）
+
+            ---
+
+            ## 論文・特許・規格 {#論文特許}
+
+            （**毎回必ず記載**。JASA/AES/arXiv/IEEE/特許から1~3件を解説。論文タイトル・著者・掲載誌・DOIまたはリンク・概要200~400字を記載。情報が見つからない場合は「今回の検索では該当なし」と明記すること。省略不可）
+            ```
+
+            ---
+
+            ## ステップ5: git commit & push
+
+            レポートファイルを書き終えたら、Bashツールで以下を実行する：
+
+            ```bash
+            git add reports/YYYY/MM/YYYY-MM-DD.md
+            git commit -m "📊 YYYY-MM-DD 日次レポート: テーマタイトル（短縮版）"
+            ```
+
+            ---
+
+            ## ステップ6: index/by-topic.md の更新
+
+            1. `index/by-topic.md` を読み込む
+            2. 今日のレポートに対応するセクション（テーマカテゴリ）を探す。セクションが存在しない場合は末尾に新規作成する
+            3. テーブル行を追記する：
+               ```
+               | [YYYY-MM-DD](../reports/YYYY/MM/YYYY-MM-DD.md) | **特集**：テーマタイトル | タグ1, タグ2, タグ3, ... |
+               ```
+            4. Editツールまたは Bashツール (sed等) で追記し、コミットする：
+               ```bash
+               git add index/by-topic.md
+               git commit -m "📝 YYYY-MM-DD インデックス更新: テーマカテゴリ追加"
+               ```
+
+            ---
+
+            ## "ステップ7: push して完了報告
+
+            ```bash
+            git push origin main
+            ```
+
+            最後に以下の完了報告を出力する：
+            - pushしたレポートのGitHub URL（https://github.com/furusho311-art/speaker-research-log/blob/main/reports/YYYY/MM/YYYY-MM-DD.md）
+            - 選定したテーマとその理由
+            - 主な論文・ニュース3~5件の要点
+            - 使用した検索クエリの一覧
+
+            ---
+
+            ## 注意事項
+
+            - **過去レポートと同じ記事・URLは使用しない**。ステップ1で確認した過去情報はスキップ
+            - WebFetchは論文アブストラクト等の深掘りが必要な場合のみ使用（トークン節約）
+            - すべての情報に出典URL（クリッカブルリンク）を付ける
+            - レポートは日本語で記述。固有名詞・製品名・技術用語は英語表記を併用する
+            - 論文セクションは「該当なし」でも必ず記載する
+
+environment:
+  CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+
+      # ---- 4. インデックスの更新チェック（必須） ----
+      - name: Verify index update
+        run: |
+          if grep -q "$(date +%Y-%m-%d)" index/by-topic.md; then
+            echo "✓ Index successfully updated"
+          else
+            echo "⚠ Warning: Index may not have been updated"
+          fi
+
+      # ---- 5. git push (ci skip は使わない、通常の push) ----
+      - name: Push changes
+        run: |
+          git push origin main
+        env:08省略不可）
+            - ファイル書き込みにはWriteツールを使う（ブラウザ操作は不要）
+            - git push が失敗した場合は、エラーメッセージを出力して終了する
+
+      # ---- 4. フォールバック: Claude が push しなかった場合 ----
+      - name: Fallback commit & push
+        if: always()
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "✅ No uncommitted changes (Claude handled everything)"
+          else
+            echo "⚠️ Fallback: committing remaining changes"
+            git commit -m "📊 daily report (fallback commit)"
+            git push origin main
+          fi
