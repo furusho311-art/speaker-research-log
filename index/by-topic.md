@@ -226,3 +226,9 @@
 | 日付 | テーマ | タグ |
 |--------|---------|------|
 | [2026-04-16](../reports/2026/04/2026-04-16.md) | **特集**：Auracast公共展開元年2026：Frankfurt空港・National Theatre・Disney——LE Audioブロードキャスト | Auracast, LE Audio, LC3, PBP, BASS, Frankfurt Airport, Disney, Samsung Music Studio, Jamo, iPhone 17, AEC, EchoFree, ICASSP 2026 |
+
+## 放送音響・NAB・SMPTE
+
+| 日付 | テーマ | タグ |
+|--------|---------|------|
+| [2026-04-17](../reports/2026/04/2026-04-17.md) | **特集**：NAB 2026 イマーシブオーディオ最前線（Sennheiser AMBEO・Fairlight Live・MPEG-H×Pro Tools） | NAB 2026, イマーシブオーディオ, Sennheiser, AMBEO, Blackmagic, Fairlight Live, Fraunhofer, MPEG-H, Pro Tools, SMPTE ST 2110, Barco, Focal, Naim, Samsung, xMEMS, 音響メタマテリアル, arXiv |
