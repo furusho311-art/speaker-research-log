@@ -232,3 +232,10 @@
 | 日付 | テーマ | タグ |
 |--------|---------|------|
 | [2026-04-17](../reports/2026/04/2026-04-17.md) | **特集**：NAB 2026 イマーシブオーディオ最前線（Sennheiser AMBEO・Fairlight Live・MPEG-H×Pro Tools） | NAB 2026, イマーシブオーディオ, Sennheiser, AMBEO, Blackmagic, Fairlight Live, Fraunhofer, MPEG-H, Pro Tools, SMPTE ST 2110, Barco, Focal, Naim, Samsung, xMEMS, 音響メタマテリアル, arXiv |
+
+
+## プロワイヤレス音響・WMAS
+
+| 日付 | テーマ | タグ |
+|--------|---------|------|
+| [2026-04-19](../reports/2026/04/2026-04-19.md) | **特集**：Sennheiser Spectera WMAS×Eurovision 2026——プロワイヤレス音響の新基準とオーディオ業界再編の第二波 | Sennheiser, Spectera, WMAS, Eurovision 2026, ワイヤレスオーディオ, プロオーディオ, Barco, Focal, Naim, VerVent, Audiotonix, DPA Microphones, Wisycom, Austrian Audio, Samsung, Harman, Sound United, Denon, HOME 200/400/600, Dolby Atmos, NAB 2026, Fraunhofer, MPEG-H, DAME, 音場再構成, ニューラルネットワーク |
