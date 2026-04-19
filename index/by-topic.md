@@ -67,6 +67,8 @@
 | [2026-04-02](../reports/2026/04/2026-04-02.md) | **特集**：振動板・材料技術の最前線2026：超薄板ガラス・ナノグラフェン・航空宇宙フォーム・ポリマーMEMSが拓くスピーカーの新境地 | 振動板, 材料技術, Dinorex UTG, 超薄板ガラス, ナノグラフェン, Magico, Nano-Tec Gen 8, ROHACELL, Yamaha, Wilson Benesch, アディティブマニュファクチャリング, MEMS, PZT, ポリマー振動板, カーボンファイバー, Focal, ベリリウム, CNT, 3Dプリント |
 | [2026-04-02](../reports/2026/04/2026-04-02.md) | （関連）NEG Dinorex UTG 25μm超薄板ガラス振動板×MarkAudio世界初実用化, Magico S7 2026 Nano-Tec Gen 8グラフェン強化カーボンサンドイッチコーン, Yamaha Design Lab ROHACELL PMIフォーム4コンセプト, Nature Comms Eng ポリマーMEMS PZT薄膜スピーカー, Wilson Benesch Fibonacci AM, xMEMSシリコン振動板, Focal W Sandwich/純ベリリウム, 三菱NCV CNT振動板, 超薄木材バイオマス振動板4880Hz | NEG, Dinorex UTG, MarkAudio, GAIT, Magico, S7 2026, Nano-Tec Gen 8, ナノグラフェン, Yamaha, ROHACELL, PMI, Wilson Benesch, Fibonacci, xMEMS, Focal, ベリリウム, 三菱電機, NCV, CNT, バイオマス |
 
+| [2026-04-20](../reports/2026/04/2026-04-20.md) | **特集**：セラミック複合振動板の新潮流 — Revel DCC/MCC・Paradigm AL-MAC・CLC65 Purifiに見る金属-セラミックスコンポジット技術の最前線 | 振動板材料, セラミック複合材, Deep Ceramic Composite, AL-MAC, AL-MAG, Carbon-X, Purifi, Revel Performa4, Paradigm Premier v2, CLC65, AXPONA 2026, ウェーブガイド, FEA, Harman, Focal Mu-so Hekla |
+
 ## 材料・磁石
 
 | 日付 | テーマ | タグ |
