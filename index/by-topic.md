@@ -241,3 +241,10 @@
 | 日付 | テーマ | タグ |
 |--------|---------|------|
 | [2026-04-19](../reports/2026/04/2026-04-19.md) | **特集**：Sennheiser Spectera WMAS×Eurovision 2026——プロワイヤレス音響の新基準とオーディオ業界再編の第二波 | Sennheiser, Spectera, WMAS, Eurovision 2026, ワイヤレスオーディオ, プロオーディオ, Barco, Focal, Naim, VerVent, Audiotonix, DPA Microphones, Wisycom, Austrian Audio, Samsung, Harman, Sound United, Denon, HOME 200/400/600, Dolby Atmos, NAB 2026, Fraunhofer, MPEG-H, DAME, 音場再構成, ニューラルネットワーク |
+
+
+## サブベース・低音再生・ドライバー革新技術
+
+| 日付 | テーマ | タグ |
+|------|---------|------|
+| [2026-04-21](../reports/2026/04/2026-04-21.md) | **特集**：Brane Audio RAD2 ─ Repel-Attract Driver第2世代が切り拓くサブベース革命と小型スピーカーの低音限界突破 | Brane Audio, RAD2, Repel-Attract Driver, サブウーファー, 低音再生, 小型スピーカー, ドライバー設計, Iron Law, CES 2026, SVS, R|Evolution, Denon HOME, 空間オーディオ, Dolby Atmos, UltrasonicSpheres, 超音波スピーカー, 音響メタマテリアル, 特許技術, トランスデューサ |
