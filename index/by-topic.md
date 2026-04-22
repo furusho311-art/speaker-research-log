@@ -118,6 +118,7 @@
 | [2026-03-18](../reports/2026/03/2026-03-18.md) | **特集**：スピーカー測定技術の最前線2026：Klippel FLSI・NFS・Spinorama・AIが拓く評価革命 | Klippel, FLSI Pro, NFS近接場スキャナ, Spinorama, CTA-2034A, 非線形歪み測定, 音質評価, AI音響, 生産品質管理, REW, 感性音響評価, 心理音響 |
 | [2026-03-18](../reports/2026/03/2026-03-18.md) | （関連）Klippel NFS 2025ソフトウェアアップデート（ISC統合改善） | Klippel, NFS, ISC |
 | [2026-03-16](../reports/2026/03/2026-03-16.md) | （関連記事）Klippel 3-Day Lecture / DAGA 2026 | Klippel, FLSI |
+| [2026-04-23](../reports/2026/04/2026-04-23.md) | **特集**：測定・評価技術 — スピーカー性能評価の標準化と最新計測システムの動向 | 測定技術, スピノラマ, CTA-2034, Klippel, Audio Precision, GRAS, REW |
 
 ## 非線形歪み・大信号解析
 
