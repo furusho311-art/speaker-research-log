@@ -158,6 +158,7 @@
 |------|--------|------|
 | [2026-03-22](../reports/2026/03/2026-03-22.md) | **特集**：ルームアコースティクス補正・DSP部屋補正2026：Dirac Live ART・Trinnov・ARC Genesisが変えるホームオーディオ体験 | ルームアコースティクス, 部屋補正, DSP, Dirac Live, Dirac Live ART, Trinnov, ARC Genesis, Audyssey, WiiM RoomFit, REW, 定在波, MIMO, ルームコレクション, Klipsch, 低音管理 |
 | [2026-03-22](../reports/2026/03/2026-03-22.md) | （関連）Klipsch The Sevens/Nines IIにDirac Live搭載（CES 2026）, Trinnov AltitudeCI AoIP展開, WiiM RoomFit MMM・EQ分離, REW V5.40 beta, AI/ML for Acoustics npj 2025 | Klipsch, Trinnov, AltitudeCI, AoIP, WiiM, REW, npj Acoustics, AI音響 |
+| [2026-04-22](../reports/2026/04/2026-04-22.md) | **特集**：Dutch & Dutch 15c ─ 4基の15インチドライバーとカーディオイド・バス技術が拓くアクティブスピーカーの新境地 | Dutch & Dutch, 15c, カーディオイド・バス, アクティブスピーカー, DSP, ルームアダプテーション, Ø Audio, Ymir, コンプレッションドライバー, ウェーブガイド, ELAC, ATC, Harman Kardon, Class-D, 音場合成 |
 
 ## パワーアンプ技術・Class-D・GaN
 
