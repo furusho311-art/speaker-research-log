@@ -25,6 +25,7 @@
 | [2026-03-28](../reports/2026/03/2026-03-28.md) | **特集**：音響メタマテリアルの最前線2026：「質量則を破る」新世代素材が遮音・吸音・通信を再定義する | 音響メタマテリアル, 遮音, 吸音, 通気遮音, 低周波, Helmholtz共鳴, ラビリンス型, PixieDustTechnologies, iwasemi, KEF, MAT, フラクタルメタマテリアル, 車載音響, 水中音響, 水空間音響通信, IMDEA, 機械学習, 次世代材料 |
 | [2026-03-28](../reports/2026/03/2026-03-28.md) | （関連）IMDEAの水中↔空気HDMメタマテリアル（Materials Horizons 2026）, コッホフラクタルメタサーフェス（JAP 2025, Chery Automobile）, PxDT iwasemiマンション遮音実証（15〜23dB・通気維持）, Helmholtz×デコレーテッドメンブレン統合ベンチレーテッドメタマテリアル（JAP 2026・λ/16厚）, KEF Q1 Meta・R5 Meta MAT搭載継続展開 | IMDEA, HDM, OAM, Koch fractal, Helmholtz, DecoratedMembrane, PxDT, iwasemi, KEF MAT, npj Acoustics |
 
+| [2026-04-24](../reports/2026/04/2026-04-24.md) | **特集**：音響メタマテリアル — 構造で音を操る次世代技術（ゴーストトンネル、iwasemi OC-β、LLM駆動設計） | 音響メタマテリアル, 吸音技術, スピーカー設計, 騒音制御, LLM駆動設計, iwasemi, PixieDustTechnologies, KEF, MAT, ゴーストトンネル, 3Dプリント, 低周波吸音 |
 ## 超指向性音響・パラメトリックスピーカー
 
 | 日付 | テーマ | タグ |
