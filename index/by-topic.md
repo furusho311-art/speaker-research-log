@@ -251,3 +251,9 @@
 | 日付 | テーマ | タグ |
 |------|---------|------|
 | [2026-04-21](../reports/2026/04/2026-04-21.md) | **特集**：Brane Audio RAD2 ─ Repel-Attract Driver第2世代が切り拓くサブベース革命と小型スピーカーの低音限界突破 | Brane Audio, RAD2, Repel-Attract Driver, サブウーファー, 低音再生, 小型スピーカー, ドライバー設計, Iron Law, CES 2026, SVS, R|Evolution, Denon HOME, 空間オーディオ, Dolby Atmos, UltrasonicSpheres, 超音波スピーカー, 音響メタマテリアル, 特許技術, トランスデューサ |
+
+## 騒音予測・環境音響・標準規格
+
+| 日付 | テーマ | タグ |
+|------|---------|------|
+| [2026-04-25](../reports/2026/04/2026-04-25.md) | **特集**：SDE（System Design Exchange）規格の誕生——L-Acoustics×d&b audiotechnik×SoundPLANが切り拓くプロオーディオ騒音予測の統一標準 | SDE, System Design Exchange, L-Acoustics, d&b audiotechnik, SoundPLAN, 騒音予測, 環境音響, プロオーディオ |
