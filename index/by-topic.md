@@ -52,6 +52,7 @@
 | 日付 | テーマ | タグ |
 |------|--------|------|
 | [2026-03-17](../reports/2026/03/2026-03-17.md) | （関連）Pioneer SPHERA, Mercedes-Benz 空間オーディオ | Pioneer SPHERA, CarPlay, Dolby Atmos |
+| [2026-04-28](../reports/2026/04/2026-04-28.md) | 車載イマーシブオーディオ戦国時代2026：Dolby Atmos×BMW 7 Series、Dirac Spaces×NIO ES9、Pioneer SPHERA、AFEELA 1 | 車載オーディオ, Dolby Atmos, BMW, B&W, Dirac Spaces, NIO, Pioneer SPHERA, AFEELA, Sony Honda Mobility, イマーシブオーディオ, 4Dオーディオ |
 
 ## ライン・アレイ・PAシステム
 
