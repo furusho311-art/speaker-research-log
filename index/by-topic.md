@@ -84,6 +84,9 @@
 | [2026-03-24](../reports/2026/03/2026-03-24.md) | （関連）SonicEdge SonicTwin ST100（8×4×1mm スピーカー+マイク統合）, IDTechEx 2036年27億ドル予測, BleeqUp Rangerスポーツグラス採用 | SonicEdge, SonicTwin, IDTechEx, BleeqUp, スポーツウェアラブル |
 | [2026-03-18](../reports/2026/03/2026-03-18.md) | （関連）xMEMS Cypress量産体制確立, Sycamore早期アクセス開始 | xMEMS, Cypress, Sycamore, MEMSスピーカー |
 | [2026-03-16](../reports/2026/03/2026-03-16.md) | （関連記事）xMEMS Sycamore, sensiBel SBM100B | xMEMS, Sycamore, sensiBel, 光学MEMS |
+| [2026-04-27](../reports/2026/04/2026-04-27.md) | **特集**：MEMSオーディオ革命2026：xMEMS固体スピーカー量産開始とRØDE Sonaura MEMSマイクが音響デバイスの常識を書き換える | MEMS, MEMSスピーカー, MEMSマイク, xMEMS, Sycamore, Cypress, Alta2, RØDE, Sonaura, Infineon, Sealed Dual Membrane, Lectrosonics, Brane Audio, RAD2, DiffraktLAB, Knowles, 圧電MEMS, 静電MEMS, TWS, ウェアラブル, AI, NAB 2026, CES 2026, Powersoft, K-Array |
+| [2026-04-27](../reports/2026/04/2026-04-27.md) | （関連）xMEMS Cypress+Alta2 フルレンジMEMSスピーカー量産開始, xMEMS Sycamore 1.28mm厚MEMSラウドスピーカーH2 2026量産, RØDE Sonaura Infineon Sealed Dual Membrane SNR 83dB MEMSマイク, Brane Audio RAD2 30倍低音効率ドライバー, DiffraktLAB Rust/Tauri統合スピーカー設計環境, Powersoft K-Array 51%取得EUR50M, BSANN パーソナルサウンドゾーン(arXiv 2601.06621), arXiv 2512.17708 MEMSスピーカーレビュー | xMEMS, Cypress, Alta2, Sycamore, RØDE, Sonaura, Infineon, Brane Audio, RAD2, DiffraktLAB, Powersoft, K-Array, BSANN, arXiv |
+
 
 ## アンプ技術
 
