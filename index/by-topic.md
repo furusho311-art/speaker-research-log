@@ -235,6 +235,7 @@
 | 日付 | テーマ | タグ |
 |--------|---------|------|
 | [2026-04-16](../reports/2026/04/2026-04-16.md) | **特集**：Auracast公共展開元年2026：Frankfurt空港・National Theatre・Disney——LE Audioブロードキャスト | Auracast, LE Audio, LC3, PBP, BASS, Frankfurt Airport, Disney, Samsung Music Studio, Jamo, iPhone 17, AEC, EchoFree, ICASSP 2026 |
+| [2026-04-30](../reports/2026/04/2026-04-30.md) | **特集**：Bluetooth LE Audio / Auracast / HDT革命2026 — パッシブスピーカー無線化からロスレス・マルチチャンネルまで | Bluetooth LE Audio, Auracast, Bluetooth 6.0, HDT, High Data Throughput, LC3plus, Pro-Ject, Wireless Box E, WiiM, Samsung, Music Studio, Marshall, Emberton III, Willen II, ワイヤレスオーディオ, パッシブスピーカー, マルチルーム, ロスレス, コーデック, Bluetooth SIG, LD Systems, ICOA PRO, BEM最適化, Sonarion, NEG, ガラス振動板 |
 
 ## 放送音響・NAB・SMPTE
 
@@ -270,3 +271,4 @@
 | [2026-04-26](../reports/2026/04/2026-04-26.md) | **特集**：MEMSマイクロフォン技術の転換点2026：RØDE Sonaura × Infineon SDMが告げるプロオーディオ集音の新時代と音響トランスデューサ革命 | MEMSマイクロフォン, RØDE, Sonaura, Infineon, XENSIV, Sealed Dual Membrane, SDM, Lectrosonics, L1, Freedman Group, NAB 2026, sensiBel, Knowles, STMicroelectronics, SonicSieve, 指向性集音, ビームフォーミング, ICASSP 2026, DiffraktLAB, スピーカー設計, MPEG-I, Ericsson, 空間音響, プロオーディオ |
 | [2026-04-26](../reports/2026/04/2026-04-26.md) | （関連）RØDE Sonaura SNR 83dB・自己雑音11dBA MEMSマイク（Infineon SDM 5年共同開発）, Lectrosonics L1サブミニチュアラベリア, DiffraktLAB統合スピーカー設計環境（Rust/Tauri・miniDSPエクスポート）, SonicSieve 3Dプリント音響マイクロ構造指向性抽出（arXiv 2504.10793）, ICASSP 2026バルセロナ5月4〜8日4,500本超論文, Ericsson MPEG-I異種体積音源レンダリング, SPPAL段付き板パラメトリックアレイ（JASA 2025） | RØDE, Sonaura, Infineon, SDM, Lectrosonics, L1, DiffraktLAB, SonicSieve, ICASSP, Ericsson, MPEG-I, SPPAL, arXiv |
 | [2026-04-29](../reports/2026/04/2026-04-29.md) | AXPONA 2026総括：Wilson Audio Autobiography、Revel Performa4 DCC、ATC EL50 | AXPONA 2026, Wilson Audio, Revel, Performa4, DCC, ATC, EL50, Magico, ハイエンドオーディオ, 振動板素材, アクティブスピーカー |
+
