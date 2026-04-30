@@ -272,3 +272,11 @@
 | [2026-04-26](../reports/2026/04/2026-04-26.md) | （関連）RØDE Sonaura SNR 83dB・自己雑音11dBA MEMSマイク（Infineon SDM 5年共同開発）, Lectrosonics L1サブミニチュアラベリア, DiffraktLAB統合スピーカー設計環境（Rust/Tauri・miniDSPエクスポート）, SonicSieve 3Dプリント音響マイクロ構造指向性抽出（arXiv 2504.10793）, ICASSP 2026バルセロナ5月4〜8日4,500本超論文, Ericsson MPEG-I異種体積音源レンダリング, SPPAL段付き板パラメトリックアレイ（JASA 2025） | RØDE, Sonaura, Infineon, SDM, Lectrosonics, L1, DiffraktLAB, SonicSieve, ICASSP, Ericsson, MPEG-I, SPPAL, arXiv |
 | [2026-04-29](../reports/2026/04/2026-04-29.md) | AXPONA 2026総括：Wilson Audio Autobiography、Revel Performa4 DCC、ATC EL50 | AXPONA 2026, Wilson Audio, Revel, Performa4, DCC, ATC, EL50, Magico, ハイエンドオーディオ, 振動板素材, アクティブスピーカー |
 
+
+
+## ICASSP・信号処理学会
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-05-01](../reports/2026/05/2026-05-01.md) | **特集**：ICASSP 2026 Barcelona開幕直前：4,500本超の論文が集結するAI×音響の未来（DAME音場再構成、ニューラルMIMOビームフォーミング、空間音響セマンティクス） | ICASSP 2026, Barcelona, IEEE, 信号処理, AI, 音響信号処理, DAME, Mixture-of-Experts, 音場再構成, ニューラルビームフォーミング, MIMO, 空間音響, DCASE, 音響シーン分析, Fraunhofer, Audiofields, Mercedes-Benz, Burmester, 3Dオーディオ, d&b audiotechnik, U-Series, Milan AVB, AES Europe 2026, Copenhagen |
+| [2026-05-01](../reports/2026/05/2026-05-01.md) | （関連）DAME ICASSP 2026採択MoE音場再構成, arXiv:2604.11179 方向保存型ニューラルMIMO音声強調, DCASE 2026 Task 4 空間音響セマンティックセグメンテーション, Mercedes-Benz Audiofields量産展開, d&b U-Series＋Milan AVB製品群, AES Europe 2026 Copenhagen 5/28-30, Edifier M90 BT6.0 100Wデスクトップ, Onkyo Muse Y-50 250W May発売, PINNs RIR空間補間, LRAC低リソースニューラルコーデック | DAME, arXiv, MIMO, DCASE, Mercedes-Benz, Audiofields, Fraunhofer IDMT, d&b, U-Series, Milan, AES, Edifier, M90, Onkyo, PINNs, LRAC |
