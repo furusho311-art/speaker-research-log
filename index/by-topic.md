@@ -76,7 +76,6 @@
 | 日付 | テーマ | タグ |
 |------|--------|------|
 | [2026-03-16](../reports/2026/03/2026-03-16.md) | レアアース不要の鉄窒化物磁石がスピーカー業界にもたらす変革 | 鉄窒化物磁石, Niron Magnetics, FaitalPRO, レアアースフリー, サステナビリティ |
-
 ## MEMSスピーカー・マイクロフォン
 
 | 日付 | テーマ | タグ |
@@ -87,6 +86,8 @@
 | [2026-03-16](../reports/2026/03/2026-03-16.md) | （関連記事）xMEMS Sycamore, sensiBel SBM100B | xMEMS, Sycamore, sensiBel, 光学MEMS |
 | [2026-04-27](../reports/2026/04/2026-04-27.md) | **特集**：MEMSオーディオ革命2026：xMEMS固体スピーカー量産開始とRØDE Sonaura MEMSマイクが音響デバイスの常識を書き換える | MEMS, MEMSスピーカー, MEMSマイク, xMEMS, Sycamore, Cypress, Alta2, RØDE, Sonaura, Infineon, Sealed Dual Membrane, Lectrosonics, Brane Audio, RAD2, DiffraktLAB, Knowles, 圧電MEMS, 静電MEMS, TWS, ウェアラブル, AI, NAB 2026, CES 2026, Powersoft, K-Array |
 | [2026-04-27](../reports/2026/04/2026-04-27.md) | （関連）xMEMS Cypress+Alta2 フルレンジMEMSスピーカー量産開始, xMEMS Sycamore 1.28mm厚MEMSラウドスピーカーH2 2026量産, RØDE Sonaura Infineon Sealed Dual Membrane SNR 83dB MEMSマイク, Brane Audio RAD2 30倍低音効率ドライバー, DiffraktLAB Rust/Tauri統合スピーカー設計環境, Powersoft K-Array 51%取得EUR50M, BSANN パーソナルサウンドゾーン(arXiv 2601.06621), arXiv 2512.17708 MEMSスピーカーレビュー | xMEMS, Cypress, Alta2, Sycamore, RØDE, Sonaura, Infineon, Brane Audio, RAD2, DiffraktLAB, Powersoft, K-Array, BSANN, arXiv |
+| [2026-05-03](../reports/2026/05/2026-05-03.md) | **特集**：スピーカードライバー技術の両極革命2026：Brane Audio RAD2がHofmannの鉄則を破壊、xMEMS SycamoreがAIウェアラブルを変える | Brane Audio, RAD2, Hofmannの鉄則, xMEMS, Sycamore, MEMS スピーカー, TSMC, Bosch, Party Pro, ドライバー技術, 鹿島建設, OPSODIS, Sounds Great Holdings, Royer Labs, Sound Reproduction第4版, Toole, Olive, 心理音響 |
+| [2026-05-03](../reports/2026/05/2026-05-03.md) | （関連）Brane Audio RAD2 30倍サブベース性能 Party Pro $1,000-$1,500 2026年内発売, xMEMS Sycamore-N/W TSMC+Bosch Q2 2026量産, 鹿島建設 OPSODIS 1 CTC立体音響 132,000円 一般販売開始, Sounds Great Holdings Royer Labs＋Undertone Audio連続買収, Sound Reproduction第4版 Toole/Olive/Welti 2026刊行, arXiv:2604.12439 遅延支援音源室内補償, arXiv:2604.16970 BIOSS室内音響モデル | Brane Audio, RAD2, xMEMS, Sycamore, OPSODIS, 鹿島建設, Sounds Great Holdings, Royer Labs, Undertone Audio, Toole, Olive, arXiv, BIOSS |
 
 
 ## アンプ技術
@@ -280,3 +281,4 @@
 |------|--------|------|
 | [2026-05-01](../reports/2026/05/2026-05-01.md) | **特集**：ICASSP 2026 Barcelona開幕直前：4,500本超の論文が集結するAI×音響の未来（DAME音場再構成、ニューラルMIMOビームフォーミング、空間音響セマンティクス） | ICASSP 2026, Barcelona, IEEE, 信号処理, AI, 音響信号処理, DAME, Mixture-of-Experts, 音場再構成, ニューラルビームフォーミング, MIMO, 空間音響, DCASE, 音響シーン分析, Fraunhofer, Audiofields, Mercedes-Benz, Burmester, 3Dオーディオ, d&b audiotechnik, U-Series, Milan AVB, AES Europe 2026, Copenhagen |
 | [2026-05-01](../reports/2026/05/2026-05-01.md) | （関連）DAME ICASSP 2026採択MoE音場再構成, arXiv:2604.11179 方向保存型ニューラルMIMO音声強調, DCASE 2026 Task 4 空間音響セマンティックセグメンテーション, Mercedes-Benz Audiofields量産展開, d&b U-Series＋Milan AVB製品群, AES Europe 2026 Copenhagen 5/28-30, Edifier M90 BT6.0 100Wデスクトップ, Onkyo Muse Y-50 250W May発売, PINNs RIR空間補間, LRAC低リソースニューラルコーデック | DAME, arXiv, MIMO, DCASE, Mercedes-Benz, Audiofields, Fraunhofer IDMT, d&b, U-Series, Milan, AES, Edifier, M90, Onkyo, PINNs, LRAC |
+
