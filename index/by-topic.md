@@ -287,3 +287,11 @@
 |------|--------|------|
 | [2026-05-04](../reports/2026/05/2026-05-04.md) | **特集**：AXPONA 2026とハイエンドスピーカー設計の科学革命：Revel Performa4の第7世代音響レンズ、CLC65の全Purifi構成、Magico S7のNano-Tec Gen 8が示す「測定駆動型設計」の新地平 | AXPONA 2026, Revel, Performa4, Harman, 音響レンズウェーブガイド, DCC, MCC, Copenhagen Loudspeaker Company, CLC65, Purifi, Magico, S7 2026, Nano-Tec Gen 8, ハイエンドス��ーカー, 測定駆動設計, Powersoft, K-Array, AES AVARIG2026, SPPAL, 深層学習ANC |
 | [2026-05-04](../reports/2026/05/2026-05-04.md) | （関連）Revel Performa4 第7世代音響レンズWG＋DCC/MCCセラミックコンポジット（$1,999〜$6,999）, CLC65 世界初全Purifi 3ウェイ（$11,500・5月出荷���, Magico S7 2026 Nano-Tec Gen 8＋ダイヤモンドコートBe（$135,000〜）, Powersoft×K-Array 51%買収完了, AES AVARIG2026 パリ6/30-7/3, arXiv:2504.21171 SPPAL段付き板設計検証, arXiv:2604.10979 深層学習音声保存型ANC | Revel, DCC, MCC, CLC65, Purifi, Magico, Nano-Tec, Powersoft, K-Array, AES, AVARIG2026, SPPAL, arXiv |
+
+
+## イマーシブオーディオ・空間音響
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-05-05](../reports/2026/05/2026-05-05.md) | **特集**：イマーシブオーディオの民主化元年：Pro Tools 2026.4のMPEG-Hネイティブ統合、Pioneer SPHERAの車載Dolby Atmos、Samsung Music Studio 7のPattern Controlが切り拓く「どこでも空間音響」の新フロンティア | イマーシブオーディオ, MPEG-H, Dolby Atmos, Pro Tools 2026.4, Avid, Fraunhofer IIS, オブジェクトベースオーディオ, Pioneer, SPHERA, CarPlay, 車載空間音響, Samsung, Music Studio 7, Pattern Control, ウェーブガイド, Auracast, Bluetooth LE Audio, 音響メタマテリアル, プログラマブルメタマテリアル, PNAS, 粘弾性メタマテリアル, AXPONA買収, Sound and Fury, Transformer ANC, INTER-NOISE 2026, SAM 2026, 低周波吸音 |
+| [2026-05-05](../reports/2026/05/2026-05-05.md) | （関連）Pro Tools 2026.4 MPEG-Hレンダラー無償統合＋Immersive Panner 9.1.6対応, Pioneer SPHERA $1,300アフターマーケットDolby Atmos CarPlay（4/14発売）, Samsung Music Studio 7 3.1.1ch $500 Dolby Atmos＋Auracast, AXPONA Sound & Fury LLC売却（来場12,500人・Gen Z +52%）, PNAS プログラマブル非対称メタマテリアル（UConn）, PNAS 粘弾性低周波吸音（Cozzarelli Prize）, arXiv:2605.00494 Transformer ANC E2E-CFG | Avid, MPEG-H, Fraunhofer IIS, Pioneer, SPHERA, Samsung, Music Studio, AXPONA, PNAS, メタマテリアル, arXiv, ANC |
