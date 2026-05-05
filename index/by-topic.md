@@ -54,6 +54,9 @@
 | [2026-03-17](../reports/2026/03/2026-03-17.md) | （関連）Pioneer SPHERA, Mercedes-Benz 空間オーディオ | Pioneer SPHERA, CarPlay, Dolby Atmos |
 | [2026-04-28](../reports/2026/04/2026-04-28.md) | 車載イマーシブオーディオ戦国時代2026：Dolby Atmos×BMW 7 Series、Dirac Spaces×NIO ES9、Pioneer SPHERA、AFEELA 1 | 車載オーディオ, Dolby Atmos, BMW, B&W, Dirac Spaces, NIO, Pioneer SPHERA, AFEELA, Sony Honda Mobility, イマーシブオーディオ, 4Dオーディオ |
 
+| [2026-05-06](../reports/2026/05/2026-05-06.md) | **特集**：静電型トランスデューサーが車室内音響を再定義する — Warwick Acoustics HPEL×Range Rover SV Ultra世界初量産搭載 | 静電型スピーカー, Warwick Acoustics, HPEL, Range Rover SV Ultra, JLR, 車載オーディオ, 薄膜トランスデューサー, レアアースフリー, ニューラルPSZ, BSANN, パーソナルサウンドゾーン, 拡散モデルANC, DiffWave |
+| [2026-05-06](../reports/2026/05/2026-05-06.md) | （関連）BASSBOSS Sublim8 3ウェイコラムスピーカー, HAA Link ルームキャリブレーション, Audiotonix DPA/Wisycom/Austrian Audio 3社同時買収, arXiv:2603.02508 BSANN PSZアブレーション, Conditional DiffWave ANC圧力効果軽減 | BASSBOSS, Sublim8, HAA Link, AudioControl, Audiotonix, DPA, Wisycom, Austrian Audio |
+
 ## ライン・アレイ・PAシステム
 
 | 日付 | テーマ | タグ |
