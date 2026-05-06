@@ -298,3 +298,11 @@
 |------|--------|------|
 | [2026-05-05](../reports/2026/05/2026-05-05.md) | **特集**：イマーシブオーディオの民主化元年：Pro Tools 2026.4のMPEG-Hネイティブ統合、Pioneer SPHERAの車載Dolby Atmos、Samsung Music Studio 7のPattern Controlが切り拓く「どこでも空間音響」の新フロンティア | イマーシブオーディオ, MPEG-H, Dolby Atmos, Pro Tools 2026.4, Avid, Fraunhofer IIS, オブジェクトベースオーディオ, Pioneer, SPHERA, CarPlay, 車載空間音響, Samsung, Music Studio 7, Pattern Control, ウェーブガイド, Auracast, Bluetooth LE Audio, 音響メタマテリアル, プログラマブルメタマテリアル, PNAS, 粘弾性メタマテリアル, AXPONA買収, Sound and Fury, Transformer ANC, INTER-NOISE 2026, SAM 2026, 低周波吸音 |
 | [2026-05-05](../reports/2026/05/2026-05-05.md) | （関連）Pro Tools 2026.4 MPEG-Hレンダラー無償統合＋Immersive Panner 9.1.6対応, Pioneer SPHERA $1,300アフターマーケットDolby Atmos CarPlay（4/14発売）, Samsung Music Studio 7 3.1.1ch $500 Dolby Atmos＋Auracast, AXPONA Sound & Fury LLC売却（来場12,500人・Gen Z +52%）, PNAS プログラマブル非対称メタマテリアル（UConn）, PNAS 粘弾性低周波吸音（Cozzarelli Prize）, arXiv:2605.00494 Transformer ANC E2E-CFG | Avid, MPEG-H, Fraunhofer IIS, Pioneer, SPHERA, Samsung, Music Studio, AXPONA, PNAS, メタマテリアル, arXiv, ANC |
+
+
+## MEMSスピーカー・半導体音響デバイス
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-05-07](../reports/2026/05/2026-05-07.md) | **特集**：MEMSスピーカーが量産フェーズに突入：xMEMS Sycamore-Wのスマートウォッチ向けQ2量産開始、USound×Earweissヒアラブル提携、圧電MEMS性能指標論文、そしてSonarion超薄板ガラス振動板がスピーカー素材革命を加速する | MEMSスピーカー, xMEMS, Sycamore, Sycamore-W, USound, Earweiss, 圧電MEMS, ヒアラブル, AIウェアラブル, µCooling, スマートウォッチ, Sonarion, 超薄板ガラス振動板, 日本電気硝子, SEAS, Feastrex, GaN FET, Class-D, Definitive Technology, HARMAN, Sound United, push-pull MEMS, Figure of Merit, 半導体プロセス |
+| [2026-05-07](../reports/2026/05/2026-05-07.md) | （関連）xMEMS Sycamore-W Q2 2026量産（20×4×1.28mm・体積70%削減）, Sycamore-N CES 2026 Innovation Award（スマートグラス用1mm厚）, µCooling世界初エアポンプオンチップ, USound×Earweiss次世代ヒアラブル提携（4/7発表・500件超特許）, Sonarion正式命名（NEG・4/6）SEAS T27GL001-DXT＋Feastrex採用, Microsystems & Nanoengineering FOM論文, push-pull MEMS ScienceDirect 2026, HARMAN Sound United $350M買収完了（B&W・Denon・Marantz）, Definitive Technology DM80 GaN FET 400W | xMEMS, Sycamore, µCooling, USound, Earweiss, Sonarion, NEG, SEAS, Feastrex, HARMAN, Sound United, B&W, Denon, Marantz, GaN FET, DM80 |
