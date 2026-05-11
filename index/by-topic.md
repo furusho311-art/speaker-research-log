@@ -147,6 +147,13 @@
 | [2026-03-19](../reports/2026/03/2026-03-19.md) | **特集**：プロオーディオ業界のM&A・経営動向2026：QSC・Lectrosonics買収から読む業界再編の大波 | M&A, QSC, Acuity Brands, Q-SYS, Freedman Group, Lectrosonics, RØDE, Powersoft, K-Array, L-Acoustics, Harman, 業界再編, Intelligent Spaces |
 | [2026-03-19](../reports/2026/03/2026-03-19.md) | （関連）Powersoft×K-Array 51%取得, HARMAN/Samsung垂直統合, プロオーディオ市場$132.6億 | Powersoft, K-Array, Harman, Samsung, 市場規模 |
 
+## オープンイヤーオーディオ・骨伝導
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-05-12](../reports/2026/05/2026-05-12.md) | **特集**：オープンイヤーオーディオ革命2026：Shokz DualPitch骨伝導×空気伝導ハイブリッド駆動、Soundcore AeroFit 2 Pro回転式デュアルモード、GaN Class-D成熟、A2B 2.0量産開始 | オープンイヤー, 骨伝導, 空気伝導, ハイブリッドトランスデューサー, Shokz, DualPitch, OpenRun Pro 2, Soundcore, AeroFit 2 Pro, Bose Ultra Open, Sony LinkBuds, ウェアラブルオーディオ, Analog Devices, A2B 2.0, GaN, Class-D, ICASSP 2026, Beston, リボンツイーター, SpeaD 2026, Voice Coil |
+| [2026-05-12](../reports/2026/05/2026-05-12.md) | （関連）Shokz OpenRun Pro 2 DualPitch デュアルドライバー, Soundcore AeroFit 2 Pro 56度回転式デュアルモード, ADI A2B 2.0量産（98.3Mbps 119ch）, GaN Class-D三極体制（Purifi vs Hypex vs GaN）, Voice Coil 5月号 Beston RT003C＋SpeaD 2026, ICASSP 2026バルセロナ | Shokz, Soundcore, Bose, Sony, Nank, Analog Devices, GaN, Purifi, Eigentakt, Hypex, ICEpower, Peak Audio, Infineon, ICASSP, Beston, SpeaD |
+
 ## 完全ワイヤレスイヤホン（TWS）
 
 | 日付 | テーマ | タグ |
