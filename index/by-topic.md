@@ -306,3 +306,11 @@
 |------|--------|------|
 | [2026-05-07](../reports/2026/05/2026-05-07.md) | **特集**：MEMSスピーカーが量産フェーズに突入：xMEMS Sycamore-Wのスマートウォッチ向けQ2量産開始、USound×Earweissヒアラブル提携、圧電MEMS性能指標論文、そしてSonarion超薄板ガラス振動板がスピーカー素材革命を加速する | MEMSスピーカー, xMEMS, Sycamore, Sycamore-W, USound, Earweiss, 圧電MEMS, ヒアラブル, AIウェアラブル, µCooling, スマートウォッチ, Sonarion, 超薄板ガラス振動板, 日本電気硝子, SEAS, Feastrex, GaN FET, Class-D, Definitive Technology, HARMAN, Sound United, push-pull MEMS, Figure of Merit, 半導体プロセス |
 | [2026-05-07](../reports/2026/05/2026-05-07.md) | （関連）xMEMS Sycamore-W Q2 2026量産（20×4×1.28mm・体積70%削減）, Sycamore-N CES 2026 Innovation Award（スマートグラス用1mm厚）, µCooling世界初エアポンプオンチップ, USound×Earweiss次世代ヒアラブル提携（4/7発表・500件超特許）, Sonarion正式命名（NEG・4/6）SEAS T27GL001-DXT＋Feastrex採用, Microsystems & Nanoengineering FOM論文, push-pull MEMS ScienceDirect 2026, HARMAN Sound United $350M買収完了（B&W・Denon・Marantz）, Definitive Technology DM80 GaN FET 400W | xMEMS, Sycamore, µCooling, USound, Earweiss, Sonarion, NEG, SEAS, Feastrex, HARMAN, Sound United, B&W, Denon, Marantz, GaN FET, DM80 |
+
+
+## アクティブスピーカー・Danteホームオーディオ
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-05-11](../reports/2026/05/2026-05-11.md) | **特集**：JL Audio Primacyが告げるアクティブスピーカーの新時代 — Garmin傘下10年の集大成、Danteネットワーク×自動ルーム最適化P.A.R.O.×Klippel検証ドライバーが$90,000タワーに結実 | JL Audio, Primacy, Garmin, Dante, アクティブスピーカー, P.A.R.O., 自動ルーム最適化, Klippel, カーボンファイバー振動板, ネオジウム, キャストアルミニウム筐体, Native Instruments, inMusic, iZotope, 音楽テクノロジーM&A, Bluetooth 6.3, AES Europe 2026, Copenhagen, Geoff Martin, Bang and Olufsen, Kanto Audio, Tuk Grand |
+| [2026-05-11](../reports/2026/05/2026-05-11.md) | （関連）JL Audio Primacy T6 $90,000/ペア 3ウェイ1,000W Dante内蔵アクティブタワー＋S3 $35,000/ペア 2ウェイ400W＋CS $15,000センタピース, Native Instruments→inMusic買収（Kontakt/Maschine/Traktor/iZotope/Plugin Alliance/Brainworx）, Bluetooth Core 6.3 Channel Sounding強化, AES Europe 2026 DTUコペンハーゲン5/28-30, Geoff Martin B&Oキーノート「物理測定の知覚的無関連性」, Kanto Audio Tuk Grand AMTツイーター$999.99, arXiv:2509.17410 NAMS RIR合成, arXiv:2604.10979 音声保存型ANC | JL Audio, Primacy, Garmin, Dante, P.A.R.O., Klippel, Native Instruments, inMusic, iZotope, Bluetooth 6.3, AES Europe 2026, Geoff Martin, B&O, Kanto, Tuk Grand, NAMS, arXiv |
