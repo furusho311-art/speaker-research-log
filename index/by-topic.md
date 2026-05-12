@@ -321,3 +321,12 @@
 |------|--------|------|
 | [2026-05-11](../reports/2026/05/2026-05-11.md) | **特集**：JL Audio Primacyが告げるアクティブスピーカーの新時代 — Garmin傘下10年の集大成、Danteネットワーク×自動ルーム最適化P.A.R.O.×Klippel検証ドライバーが$90,000タワーに結実 | JL Audio, Primacy, Garmin, Dante, アクティブスピーカー, P.A.R.O., 自動ルーム最適化, Klippel, カーボンファイバー振動板, ネオジウム, キャストアルミニウム筐体, Native Instruments, inMusic, iZotope, 音楽テクノロジーM&A, Bluetooth 6.3, AES Europe 2026, Copenhagen, Geoff Martin, Bang and Olufsen, Kanto Audio, Tuk Grand |
 | [2026-05-11](../reports/2026/05/2026-05-11.md) | （関連）JL Audio Primacy T6 $90,000/ペア 3ウェイ1,000W Dante内蔵アクティブタワー＋S3 $35,000/ペア 2ウェイ400W＋CS $15,000センタピース, Native Instruments→inMusic買収（Kontakt/Maschine/Traktor/iZotope/Plugin Alliance/Brainworx）, Bluetooth Core 6.3 Channel Sounding強化, AES Europe 2026 DTUコペンハーゲン5/28-30, Geoff Martin B&Oキーノート「物理測定の知覚的無関連性」, Kanto Audio Tuk Grand AMTツイーター$999.99, arXiv:2509.17410 NAMS RIR合成, arXiv:2604.10979 音声保存型ANC | JL Audio, Primacy, Garmin, Dante, P.A.R.O., Klippel, Native Instruments, inMusic, iZotope, Bluetooth 6.3, AES Europe 2026, Geoff Martin, B&O, Kanto, Tuk Grand, NAMS, arXiv |
+
+
+
+## ドライバー技術・自社製造・垂直統合
+
+| 日付 | テーマ | タグ |
+|------|--------|------|
+| [2026-05-13](../reports/2026/05/2026-05-13.md) | **特集**：スピーカーメーカーの垂直統合時代 — Linn PISTONIK自社製ウーファーが示す「ドライバー内製化」トレンド | Linn, PISTONIK, 360, 自社製ドライバー, 垂直統合, モーターシステム, 拡張磁気ギャップ, 三層ベンチレーション, アルミニウム振動板, Exakt, Barco, VerVent, Focal, Naim, M&A, QSC, LS218, CB10, Samsung, Music Studio, Q-Symphony, Brane Audio, RAD2, ネガティブスプリング, Alcons Audio, GR20, プロリボン, AXPONA, Sound Fury, Bluesound, Dirac Live, プロオーディオ市場 |
+| [2026-05-13](../reports/2026/05/2026-05-13.md) | （関連）Linn PISTONIK 6/8インチ自社設計ウーファー（拡張磁気ギャップ・永久磁気飽和・三層ベンチレーション・全数レーザー測定→Exakt連携）, Barco VerVent（Focal/Naim）€135M買収完了（4/30）, QSC LS218デュアル18インチ5,000Wサブウーファー＋CB10バッテリーPA, Samsung Music Studio 7/5 Q-Symphony 5台連携, Brane Audio RAD2ネガティブスプリング30倍効率, Alcons GR20 RBN602rsプロリボン135dB, AXPONA→Sound & Fury LLC買収（12,500人・Gen Z +52%）, Bluesound POWERNODE Dirac Live対応 | Linn, PISTONIK, Exakt, Barco, Focal, Naim, QSC, LS218, CB10, Samsung, Q-Symphony, Brane Audio, RAD2, Alcons, GR20, AXPONA, Bluesound, Dirac Live |
