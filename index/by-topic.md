@@ -309,6 +309,9 @@
 | [2026-05-05](../reports/2026/05/2026-05-05.md) | （関連）Pro Tools 2026.4 MPEG-Hレンダラー無償統合＋Immersive Panner 9.1.6対応, Pioneer SPHERA $1,300アフターマーケットDolby Atmos CarPlay（4/14発売）, Samsung Music Studio 7 3.1.1ch $500 Dolby Atmos＋Auracast, AXPONA Sound & Fury LLC売却（来場12,500人・Gen Z +52%）, PNAS プログラマブル非対称メタマテリアル（UConn）, PNAS 粘弾性低周波吸音（Cozzarelli Prize）, arXiv:2605.00494 Transformer ANC E2E-CFG | Avid, MPEG-H, Fraunhofer IIS, Pioneer, SPHERA, Samsung, Music Studio, AXPONA, PNAS, メタマテリアル, arXiv, ANC |
 
 
+| [2026-05-15](../reports/2026/05/2026-05-15.md) | **特集**：Dolby Atmosの完全浸透2026——BMW 7シリーズ36スピーカーキャビン、Bose Lifestyle Collection本日発売、Klipschブックシェルフ内蔵デコーダーまで、イマーシブオーディオが「専用ルーム」から「あらゆる空間」へ拡散する転換点 | Dolby Atmos, イマーシブオーディオ, BMW, Bowers & Wilkins, 車載オーディオ, Bose, Lifestyle Collection, PhaseGuide, サウンドバー, Klipsch, Onkyo, Dirac Live, パワードスピーカー, Pioneer, SPHERA, CarPlay, Bluetooth 6.3, LE Audio, Kanto, TUK Grand, Audiotonix, DPA Microphones, パーソナルサウンドゾーン, 空間オーディオ, LG Sound Suite, FlexConnect, Wi-Fi 7 |
+| [2026-05-15](../reports/2026/05/2026-05-15.md) | （関連）Bose Lifestyle Ultra Soundbar ,099 PhaseGuide×9ドライバー5.0.2〜7.1.4ch（5/15発売）, BMW 7シリーズ B&W Diamond 36スピーカー1,965W Dolby Atmos（Auto China 2026発表）, Klipsch Fives II/Sevens II/Nines II Onkyo大阪設計Atmosデコード＋Dirac Live内蔵, Bluetooth 6.3 Channel Sounding Inline PCT＋PHY固有RTT精度, Kanto TUK Grand AMTツイーター＋Yu4/Yu6/TUK刷新, Onkyo破産→Gentex/VOXX買収→Klipsch電子設計担当, Audiotonix DPA/Wisycom/Austrian Audio三社同時買収, arXiv:2602.16416 SZCオンライン音速推定 | Bose, Lifestyle, PhaseGuide, BMW, B&W, Dolby Atmos, Klipsch, Onkyo, Gentex, Dirac Live, Bluetooth 6.3, Kanto, Audiotonix, DPA, arXiv |
+
 ## MEMSスピーカー・半導体音響デバイス
 
 | 日付 | テーマ | タグ |
