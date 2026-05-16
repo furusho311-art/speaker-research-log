@@ -329,6 +329,10 @@
 
 
 
+| [2026-05-17](../reports/2026/05/2026-05-17.md) | **特集**：ストリーミング×フルデジタル増幅の収束2026 — Onkyo Muse Series出荷開始・Cambridge Audio L/R参入・GaN Class-D台頭が描く「アンプ不要時代」のHi-Fi新地図 | Onkyo, Muse Series, Axign, Class-D, フルデジタルアンプ, GaN, ストリーミングアンプ, Cambridge Audio, L/R Series, StreamMagic, WiiM, Gentex, VOXX, Klipsch, Samsung Music Studio, Voice Coil, SpeaD 2026, ICASSP 2026 |
+| [2026-05-17](../reports/2026/05/2026-05-17.md) | （関連）Onkyo Muse Y-50 ,499 250W/ch Axign Class-D 5月出荷, Y-40 99 150W/ch, Cambridge Audio L/R X ,299 800W StreamMagic, L/R M ,599 300W, L/R S 49 100W, Samsung Music Studio 5/7 AI Dynamic Bass Control, Voice Coil May 2026 SpeaD統合設計, Gentex VOXX決算売上43%減R&D加速, GaN Class-D市場49.2億ドル | Onkyo, Muse, Axign, Cambridge Audio, L/R, StreamMagic, Samsung, Music Studio, Voice Coil, SpeaD, Gentex, VOXX, GaN |
+
+
 ## ドライバー技術・自社製造・垂直統合
 
 | 日付 | テーマ | タグ |
