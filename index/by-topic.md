@@ -51,6 +51,7 @@
 
 | 日付 | テーマ | タグ |
 |------|--------|------|
+| [2026-05-18](../reports/2026/05/2026-05-18.md) | **特集**：車載イマーシブオーディオの多極化時代 — Dirac Spaces×NIO・Tesla Immersive Sound X・Pioneer SPHERA・BMW×Dolby Atmosが示す「ソフトウェア定義型車室音響」の4つの設計哲学 | 車載オーディオ, Dirac Spaces, NIO, Tesla, Immersive Sound X, Pioneer, SPHERA, BMW, Dolby Atmos, USound, MEMS, APG, Wharfedale, Denton 1S, 同軸ドライバー, Barco, Focal, Naim, Samsung, Music Studio |
 | [2026-03-17](../reports/2026/03/2026-03-17.md) | （関連）Pioneer SPHERA, Mercedes-Benz 空間オーディオ | Pioneer SPHERA, CarPlay, Dolby Atmos |
 | [2026-04-28](../reports/2026/04/2026-04-28.md) | 車載イマーシブオーディオ戦国時代2026：Dolby Atmos×BMW 7 Series、Dirac Spaces×NIO ES9、Pioneer SPHERA、AFEELA 1 | 車載オーディオ, Dolby Atmos, BMW, B&W, Dirac Spaces, NIO, Pioneer SPHERA, AFEELA, Sony Honda Mobility, イマーシブオーディオ, 4Dオーディオ |
 
