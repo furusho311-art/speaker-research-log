@@ -1,0 +1,18 @@
+﻿# Obsidian - device-specific only
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/graph.json
+
+# Temp / OS
+.trash/
+.DS_Store
+Thumbs.db
+*.swp
+
+# obsidian-git conflict log
+conflict-files-obsidian-git.md
+
+# Large attachments (LFS recommended)
+99_Attachments/*.pdf
+99_Attachments/*.canvas
