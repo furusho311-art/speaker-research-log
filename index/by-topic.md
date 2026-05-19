@@ -130,6 +130,8 @@
 | [2026-03-18](../reports/2026/03/2026-03-18.md) | （関連）Klippel NFS 2025ソフトウェアアップデート（ISC統合改善） | Klippel, NFS, ISC |
 | [2026-03-16](../reports/2026/03/2026-03-16.md) | （関連記事）Klippel 3-Day Lecture / DAGA 2026 | Klippel, FLSI |
 | [2026-04-23](../reports/2026/04/2026-04-23.md) | **特集**：測定・評価技術 — スピーカー性能評価の標準化と最新計測システムの動向 | 測定技術, スピノラマ, CTA-2034, Klippel, Audio Precision, GRAS, REW |
+| [2026-05-20](../reports/2026/05/2026-05-20.md) | **特集**：スピーカー計測技術の民主化2026 — Dayton Audio DATS LAが非線形Bl(x)/Kms(x)測定をDIY価格帯に開放、Klippel FLSI+Grey Boxモデリング・FEMメタマテリアル設計が描く「測る→設計する→最適化する」新時代 | Dayton Audio, DATS LA, 非線形パラメータ, Bl(x), Kms(x), Klippel, FLSI, Grey Box, DC バイアス測定, FEM, 音響メタマテリアル, AES Automotive Audio, AI |
+| [2026-05-20](../reports/2026/05/2026-05-20.md) | （関連）Dayton Audio DATS LA 100Wアンプ DCバイアス法 特許US 11,272,301 B2 非線形Bl(x)/Kms(x)対称性カーブ, Klippel Grey Box Modeling DAGA 2026 物理＋ML融合歪みキャンセル, Scientific Reports 2D FEMランダム形状キャビティメタマテリアル設計, Advanced Science 光ファイバーDASビームフォーミング音響イメージング, JBL BandBox AI楽曲分離, AES Automotive Audio 2026 AI Era | DATS LA, Klippel, Grey Box, FLSI, FEM, DAS, ビームフォーミング, JBL BandBox, AES, AI |
 
 ## 非線形歪み・大信号解析
 
@@ -344,4 +346,5 @@
 
 | [2026-05-19](../reports/2026/05/2026-05-19.md) | **特集**：膜なき音の時代へ——EPFLコロナ放電トランスデューサ（CDT）が実証した広帯域指向性制御、Dinaburg C2S・CLC65全Purifi構成・xMEMS Sycamoreヘッドホン用MEMSが拓く「ポスト・ダイナミックドライバー」の多層的進化 | コロナ放電トランスデューサ, CDT, プラズマスピーカー, EPFL, Acta Acustica, 指向性制御, Dinaburg, C2S, AXPONA 2026, CLC65, Copenhagen Loudspeaker Company, Gato Audio, Purifi, パッシブラジエーター, xMEMS, Sycamore, MEMS スピーカー, µCooling, LG Sound Suite, Dolby Atmos FlexConnect, Meridian, DSP750, Atlas, Pro-TEC |
 | [2026-05-19](../reports/2026/05/2026-05-19.md) | （関連）EPFL Acta Acustica 2026 デュアルCDT広帯域指向性制御実験実証, Dinaburg C2S 6.5インチ＋楕円HPドライバーAXPONA初公開, CLC65全Purifi 3ウェイ5月出荷開始, xMEMS Sycamoreヘッドホン用MEMS 2026年後半量産, LG Sound Suite H7 FlexConnect初搭載9.1.6ch, Meridian DSP750/730 2026 Atlasコア＋Pro-TEC | CDT, EPFL, Dinaburg, C2S, CLC65, Purifi, xMEMS, Sycamore, LG, FlexConnect, Meridian, Atlas |
+
 
