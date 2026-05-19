@@ -25,11 +25,18 @@ version: 2.0
 
 ### 探索順序（最初に成功したものを使用）
 
-1. **第1候補**：`C:\Users\furus\AppData\Roaming\Claude\secrets.json`
-2. **第2候補（フォールバック）**：`C:\Users\furus\OneDrive\ドキュメント\Claude\Scheduled\.secrets.json`
-   （SKILL.md と同じディレクトリ、`.` 始まりで隠しファイル扱い）
+scheduled task 起動時の Cowork session は、各 task の SKILL.md を含むフォルダだけが確実に connected folders として接続される。そのため、**SKILL.md と同一ディレクトリに secrets.json を置く**のが最も確実。
 
-両方とも Read で見つからない場合は、エラーメッセージで「いずれかのパスに secrets.json を作成してください」と通知して**終了**。旧 SKILL.md のハードコードへの自動フォールバックは**行わない**（セキュリティリスク）。
+1. **第1候補（最も確実・本番経路）**：このタスクの SKILL.md と同一ディレクトリの `secrets.json`
+   - 本番タスク: `C:\Users\furus\OneDrive\ドキュメント\Claude\Scheduled\speaker-research-daily\secrets.json`
+   - dry-run など別タスクの場合: そのタスクの SKILL.md フォルダの `secrets.json`
+2. **第2候補（保険）**：`C:\Users\furus\AppData\Roaming\Claude\secrets.json`
+   - Cowork session の connected folders に含まれない環境では Read 不可
+   - 開発時の手元検証のみ。本番に必須ではない
+
+第1候補が見つからず第2候補も Read できない場合は、エラーメッセージで「`C:\Users\furus\OneDrive\ドキュメント\Claude\Scheduled\speaker-research-daily\secrets.json` を作成してください」と通知して**終了**。旧 SKILL.md のハードコードへの自動フォールバックは**行わない**（セキュリティリスク）。
+
+**dry-run などで本番フォルダ以外のスケジュールタスクから本 SKILL を呼び出すときは、そのタスクの SKILL.md フォルダにも `secrets.json` をコピーしておくこと。**
 
 ### 読み込み手順
 
