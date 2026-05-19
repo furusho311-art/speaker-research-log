@@ -41,7 +41,7 @@ scheduled task 起動時の Cowork session は、各 task の SKILL.md を含む
 ### 読み込み手順
 
 1. 上記候補を順に `Read` で試行
-2. 成功した JSON から `secrets.github.pat`, `secrets.github.repo`, `secrets.github.user`, `secrets.github.api_base` を変数化
+2. 成功した JSON は `{"github": {"pat": "...", "repo": "...", "user": "...", "api_base": "..."}}` というフラット構造（最上位キー `github`、その下に各値）。`github.pat`, `github.repo`, `github.user`, `github.api_base` を変数化する
 3. **PAT を SKILL.md・レポート本文・コミットメッセージ・index ファイルなど追跡対象に絶対に書き込まない**
 4. bash 経由で API を叩く場合は環境変数 `TOKEN` に注入してから curl を叩く（後述）
 
@@ -488,7 +488,7 @@ feature モードの日のみ追記。patrol-only モードはスキップ（by-
 
 ## 付録 A: GitHub API スニペット集
 
-PAT はステップ0で読み込んだ `secrets.github.pat` を `$TOKEN`（bash）または `TOKEN` 定数（JS）に注入する。スニペット内では `<PAT_FROM_SECRETS>` プレースホルダで表記。
+PAT はステップ0で読み込んだ `github.pat` の値を `$TOKEN`（bash）または `TOKEN` 定数（JS）に注入する。スニペット内では `<PAT_FROM_SECRETS>` プレースホルダで表記。
 
 ### 方法A：bash の curl
 
