@@ -1,4 +1,3 @@
-
 # 2026-03-16
 # 2026-03-17
 # 2026-03-18
@@ -146,6 +145,7 @@ https://arxiv.org/abs/2508.18232
 https://arxiv.org/abs/2508.18913
 https://arxiv.org/abs/2509.09149
 https://arxiv.org/abs/2509.17410
+https://arxiv.org/abs/2509.23491
 https://arxiv.org/abs/2509.24834
 https://arxiv.org/abs/2511.03244
 https://arxiv.org/abs/2512.10375
@@ -279,6 +279,7 @@ https://audioxpress.com/page/current-vc-issue
 https://audioxpress.com/tags/glass-acoustic-innovations-technology
 https://audioxpress.com/tags/wireless-earbuds/auracast
 https://aurahear.com/2026/02/where-can-you-find-auracast/
+https://auto.aes.org/
 https://av.watch.impress.co.jp/category/products/speaker/
 https://av.watch.impress.co.jp/docs/news/2099243.html
 https://av.watch.impress.co.jp/docs/review/review/1600415.html
@@ -310,6 +311,7 @@ https://darko.audio/2026/04/o-audio-announces-ymir-flagship-loudspeaker/
 https://darko.audio/2026/04/revel-launches-performa4-loudspeaker-series/
 https://darko.audio/2026/04/three-products-from-axpona-2026-that-cut-through-the-noise/
 https://darko.audio/2026/05/wharfedales-denton-1s-revives-a-1974-space-saving-oddity/
+https://darko.audio/2026/06/jbl-completes-summit-series-with-everest-and-k2/
 https://dcsaudio.com/edit/mcd-16
 https://developer.nvidia.com/blog/ai-powered-simulation-tools-for-surrogate-modeling-engineering-workflows-with-siml-ai-and-nvidia-physicsnemo/
 https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home/
@@ -388,6 +390,7 @@ https://iopscience.iop.org/article/10.1088/1742-6596/2786/1/012016/pdf
 https://ir.gentex.com/news-releases/news-release-details/gentex-announces-closing-voxx-international-acquisition
 https://iwasemi.com/en
 https://jonesandcerreta.com/
+https://journals.aps.org/prapplied/abstract/10.1103/crg1-lp6y
 https://journals.sagepub.com/doi/10.1177/14613484251412011
 https://jp.technics.com/products/tws/az100/az100-magazine01/
 https://kakakumag.com/av-kaden/?id=21693
@@ -454,6 +457,7 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC12685028/
 https://pmc.ncbi.nlm.nih.gov/articles/PMC12942954/
 https://positive-feedback.com/industry-news/audio-group-denmark-at-high-end-vienna-2026/
 https://psemi.com/newsroom/press-releases/545048-peregrine-s-new-fet-driver-brings-industry-s-fastest-switching-speeds-to-gan-class-d-audio/
+https://pub.dega-akustik.de/DAGA_2026/files/upload/paper/118.pdf
 https://pubmed.ncbi.nlm.nih.gov/40478318/
 https://pubs.aip.org/aip/apr/article/12/1/011340/3341034/Architected-acoustic-metamaterials-An-integrated
 https://pubs.aip.org/aip/jap/article/139/1/015107/3376297/
@@ -507,6 +511,7 @@ https://the-ear.net/news/linn-pistonik-drivers-ultimate-linearity/
 https://the-ear.net/news/wharfedale-denton-1s-a-blast-from-the-past/
 https://the-gadgeteer.com/2026/01/12/the-sleep-speaker-designed-to-disappear-inside-your-pillow/
 https://the-gadgeteer.com/2026/05/10/7-wireless-earbuds-that-sound-better-than-they-cost-in-2026/
+https://the-gadgeteer.com/2026/06/05/google-home-speaker-2026-gemini-finally-gets-a-new-home/
 https://today.uconn.edu/2025/11/breakthrough-materials-master-sound-waves/
 https://trackingangle.com/features/wilson-audio-specialties-launches-new-autobiography-loudspeaker
 https://tutorialsdojo.com/the-state-of-audio-ai-in-2026-open-source-models-and-the-shift-to-edge-computing/
@@ -641,6 +646,7 @@ https://www.cmsworkshops.com/ICASSP2026/view_demosession.php?mid=57
 https://www.cnn.com/cnn-underscored/reviews/best-open-ear-earbuds
 https://www.cnx-software.com/2026/01/22/cadence-tensilica-hifi-iq-dsp-to-power-next-generation-voice-ai-and-audio-applications/
 https://www.coherentmarketinsights.com/industry-reports/car-sound-system-market
+https://www.commercialintegrator.com/news/harman-completes-acquisition-of-sound-united-expanding-audio-portfolio/143749/
 https://www.commercialintegrator.com/news/sennheiser-symetrix-powersoft-adopt-dante-media-encryption/140036/
 https://www.compositesworld.com/products/thin-ply-carbon-fiber-enhances-speaker-cones-diaphragms
 https://www.comsol.com/acoustics-module
@@ -664,6 +670,7 @@ https://www.designboom.com/technology/speculative-speakers-yamaha-sail-strings-b
 https://www.digitalavmagazine.com/en/2026/02/04/audinate-celebra-20-anos-innovacion-redes-av-ise-2026/
 https://www.digitalavmagazine.com/en/2026/03/26/dublin-estrena-primer-teatrosistema-hibrido-ccl-serie-u-db-audiotechnik/
 https://www.digitalavmagazine.com/en/2026/05/12/ad3000-next-audiogroup-catalogo-audio-amplificador-inteligente-clase-d/
+https://www.digitimes.com/news/a20260424PD230/samsung-harman-revenue-adas.html
 https://www.dinaburgtech.com/
 https://www.dirac.com/press/ART-for_Arcam_Radia
 https://www.dirac.com/products/art
@@ -687,6 +694,7 @@ https://www.ecoustics.com/products/arcam-radia-loudspeakers/
 https://www.ecoustics.com/products/astell-kern-sp4000t-clarus/
 https://www.ecoustics.com/products/audiocontrol-hyperion/
 https://www.ecoustics.com/products/bleequp-sports-glasses/
+https://www.ecoustics.com/products/borresen-a1-a2-a3-loudspeakers/
 https://www.ecoustics.com/products/brane-party-pro-speaker-ces-2026/
 https://www.ecoustics.com/products/cambridge-audio-lr/
 https://www.ecoustics.com/products/canvas-l-audiophile-soundbar/
@@ -695,8 +703,12 @@ https://www.ecoustics.com/products/dali-vega/
 https://www.ecoustics.com/products/elac-debut-connex-dcb61/
 https://www.ecoustics.com/products/elipson-facet-ii-6-active-bt/
 https://www.ecoustics.com/products/fender-audio-launches-elie-bluetooth/
+https://www.ecoustics.com/products/grimm-audio-pa1/
+https://www.ecoustics.com/products/ifi-go-link-2-max/
+https://www.ecoustics.com/products/ifi-idsd-gr-2/
 https://www.ecoustics.com/products/jamo-concert-series-loudspeakers-2026/
 https://www.ecoustics.com/products/jamo-hyg-bluetooth-speakers/
+https://www.ecoustics.com/products/jbl-summit-everest-k2-loudspeakers/
 https://www.ecoustics.com/products/jl-audio-primacy/
 https://www.ecoustics.com/products/jones-cerreta-axpona-2026/
 https://www.ecoustics.com/products/kanto-tuk-yu-2026/
@@ -712,7 +724,9 @@ https://www.ecoustics.com/products/noble-osprey-wireless-earbuds/
 https://www.ecoustics.com/products/onkyo-muse-streaming-amplifiers/
 https://www.ecoustics.com/products/orchard-audio-starkrimson-25-mono-premium/
 https://www.ecoustics.com/products/paradigm-premier-v2/
+https://www.ecoustics.com/products/questyle-high-end-vienna-2026/
 https://www.ecoustics.com/products/revel-performa4-speakers/
+https://www.ecoustics.com/products/ruark-talisman-r-high-end-vienna-2026/
 https://www.ecoustics.com/products/samsung-audio-2026/
 https://www.ecoustics.com/products/svs-3000-micro-revolution/
 https://www.ecoustics.com/products/triangle-capella-2/
@@ -1088,6 +1102,7 @@ https://www.systemsintegrationasia.com/ise-2026-atlasied-introduces-poe-powered-
 https://www.systemsintegrationasia.com/next-audiogroup-targets-smarter-multi-zone-installations-with-new-ad3000-dsp-amplifier/
 https://www.t3.com/active/soundcore-aerofit-2-pro-review
 https://www.t3.com/auto/this-is-the-best-sound-system-ive-heard-in-a-car-and-its-not-the-model-you-might-expect
+https://www.techadvisor.com/article/3152910/google-home-speaker-potential-launch-date-25-june.html
 https://www.techlicious.com/review/samsung-music-studio-7-review/
 https://www.technics.com/us/explore/technology/eah-az100.html
 https://www.techradar.com/audio/apple-quietly-just-unveiled-a-new-spatial-audio-format-that-expands-on-dolby-atmos-and-that-rivals-google-and-samsungs-eclipsa-audio
