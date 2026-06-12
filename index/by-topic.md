@@ -347,4 +347,8 @@
 | [2026-05-19](../reports/2026/05/2026-05-19.md) | **特集**：膜なき音の時代へ——EPFLコロナ放電トランスデューサ（CDT）が実証した広帯域指向性制御、Dinaburg C2S・CLC65全Purifi構成・xMEMS Sycamoreヘッドホン用MEMSが拓く「ポスト・ダイナミックドライバー」の多層的進化 | コロナ放電トランスデューサ, CDT, プラズマスピーカー, EPFL, Acta Acustica, 指向性制御, Dinaburg, C2S, AXPONA 2026, CLC65, Copenhagen Loudspeaker Company, Gato Audio, Purifi, パッシブラジエーター, xMEMS, Sycamore, MEMS スピーカー, µCooling, LG Sound Suite, Dolby Atmos FlexConnect, Meridian, DSP750, Atlas, Pro-TEC |
 | [2026-05-19](../reports/2026/05/2026-05-19.md) | （関連）EPFL Acta Acustica 2026 デュアルCDT広帯域指向性制御実験実証, Dinaburg C2S 6.5インチ＋楕円HPドライバーAXPONA初公開, CLC65全Purifi 3ウェイ5月出荷開始, xMEMS Sycamoreヘッドホン用MEMS 2026年後半量産, LG Sound Suite H7 FlexConnect初搭載9.1.6ch, Meridian DSP750/730 2026 Atlasコア＋Pro-TEC | CDT, EPFL, Dinaburg, C2S, CLC65, Purifi, xMEMS, Sycamore, LG, FlexConnect, Meridian, Atlas |
 
-
+## 2026-06-13: L-Acoustics L1・CS1・Source Intelligence — InfoComm 2026開幕日、大型ライブサウンドの新基準が公の場へ
+- **領域:** pro-pa
+- **主要製品:** L-Acoustics L1 (160 dB SPL, PULS, 4-way 21-driver), CS1 (21"×4 cardioid sub), Source Intelligence (ML voice separation, L-ISA Processor II)
+- **関連:** SDE騒音予測標準 (L-Acoustics + d&b + SoundPLAN), Meyer Sound TIGRA/1800-LFC (GEN-1/Milan), JBL Intellivox DDS (13 models, Dante)
+- **レポート:** [2026-06-13](../reports/2026/06/2026-06-13.md)
