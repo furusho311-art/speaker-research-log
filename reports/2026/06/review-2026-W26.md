@@ -1,90 +1,82 @@
 ---
-date: 2026-06-24
+date: 2026-06-28
 type: weekly-query-review
-period_start: 2026-06-18
-period_end: 2026-06-24
-queries_version_before: "1.1"
-queries_version_after: "1.2"
+period_start: 2026-06-22
+period_end: 2026-06-28
+queries_version_before: 1.2
+queries_version_after: 1.3
 generated-by: ai-claude-speaker-research-query-review
 ---
 
 # 週次クエリレビュー: 2026-W26
 
 ## 期間
-- 2026-06-18 〜 2026-06-24 の7日間（日次レポート取得は2件のみ: 06-18 / 06-19。06-20〜06-24 は GitHub 上に未生成のためスキップ）
+- 2026-06-22 〜 2026-06-28 の7日間
 
 ## 分析サマリ
-本サイクルは観測データが極端に薄い週となった。直近7日のうち日次レポートが存在したのは 06-18 と 06-19 の2日分のみで、しかも両ファイルはバイト単位で同一（36,175 bytes）、frontmatter の `date` はいずれも `2026-06-17` を指していた。すなわち実体は 6月17日の InfoComm 2026 展示フロア開場レポート1本であり、それが翌々日まで複製プッシュされた状態で、06-20 以降は日次タスク自体が走っていない。したがって本レビューにおける「新規データ」は事実上ゼロで、被覆ヒートも重心分析もこの単一レポートに依存している点を明記しておく。
+本サイクルで取得できた日次レポートは06-24・06-27・06-28の3件で、06-22／06-23／06-25／06-26の4日分は日次タスクが未生成だった。先週に続き日次パイプラインの欠落が続いており、被覆ヒートの分母が3日に留まる点は引き続き人間判断を要する運用課題である。一方で取得できた3レポートはいずれも全12カテゴリを完全被覆しており、内容面のクエリ健全性そのものは高い水準を維持している。
 
-クエリ設計の観点では、この InfoComm レポートが扱った固有名詞のうち、現行 v1.1 の OR 羅列クエリでまだ捕捉できていなかったブランドを限定的に追記した。ライブサウンドでは新ラインアレイを投入した EAW（Newport NT208L）と dBTechnologies（VIO 系・Aurora Cloud）、イマーシブでは AES67/Milan 対応の一体型イマーシブスピーカー 1 SOUND Panorama、業務用アンプでは OEM/ODM 事業に復帰した Pascal（PX Series / S-PRO2）が該当する。いずれも前サイクル（W25）で採用済みの Coda Audio / Martin Audio / HOLOPHONIX / xMEMS とは重複しない新出名であり、1カテゴリ最大2件ルールの範囲で各該当カテゴリへ追加した。
+報道面ではInfoComm 2026の閉幕（来場28,132名・807社）と各賞、Meyer Sound TIGRA／Martin Audio Wavefront Precision更新、Bose Professional DesignMax DM12SE、Shure MXA925といった業務用新製品が厚く、研究面ではメタマテリアル吸音（モード切替型・超薄型・LLM設計）とMEMSラウドスピーカー（xMEMS Sycamore量産）が複数論文で継続的に登場した。新出として目立ったのはOEMアンプモジュール勢（ICEpower SC400A2、Purifi、Hypex）とGaN系Class-D（Infineon CoolGaN）で、いずれも現行クエリの固有名詞リストに未収録だったため今回追加対象とした。
 
-重心は健全。取得2レポートはいずれも `theme-mode: patrol-only`、`feature-domain` は空で、consumer 起点の特集は0日。consumer 偏重の兆候はなく、副次ブロック（HiFi/民生）の縮小・拡大はいずれも不要と判断した。被覆ヒートが全カテゴリ「警告（2日）」となっているのはクエリ設計の欠陥ではなく、日次タスクの不調（複製プッシュ＋以降未実行）に起因する観測アーティファクトであるため、クエリの構造変更は行わず、日次タスク側の点検を人間判断事項として申し送る。
+重心はpatrol-onlyの3件のみで feature 記事はゼロ、consumer 偏重は観測されず（0日）、業務用偏重は健全に保たれている。年号トークンは2026を継続。
 
 ## カテゴリ被覆ヒート
-注: カバー日数は「該当 `covers-categories` を含むレポートが存在した日数」。本週は 06-18/06-19 の2日のみ取得でき、両日とも全12カテゴリを含む同一レポートのため、全カテゴリが一律2日となった。
-
 | ID | カテゴリ | カバー日数 | ステータス |
 |---|---|---|---|
-| 1 | 製品 プロ/PA/ライブサウンド | 2 | 警告 |
-| 2 | 製品 設備音響/インストール | 2 | 警告 |
-| 3 | 製品 スタジオモニター/放送モニター | 2 | 警告 |
-| 4 | 製品 業務用 イマーシブ/ネットワーク音響 | 2 | 警告 |
-| 5 | 製品 業務用 アンプ/DSP/プロセッサ | 2 | 警告 |
-| 6 | 技術 ドライバ/振動板/磁気回路/材料 | 2 | 警告 |
-| 7 | 技術 DSP/Class-D/ANC/室内補正 | 2 | 警告 |
-| 8 | 技術 空間音響/Atmos/WFS/3D Audio | 2 | 警告 |
-| 9 | 技術 メタマテリアル/MEMS/CDT/プラズマ | 2 | 警告 |
-| 10 | 研究 論文（音響学術誌） | 2 | 警告 |
-| 11 | 研究 特許/規格 | 2 | 警告 |
-| 12 | 業界 M&A/決算/学会/規制 | 2 | 警告 |
+| 1 | 製品 プロ/PA/ライブサウンド | 3 | 健全 |
+| 2 | 製品 設備音響/インストール | 3 | 健全 |
+| 3 | 製品 スタジオモニター/放送モニター | 3 | 健全 |
+| 4 | 製品 業務用 イマーシブ/ネットワーク | 3 | 健全 |
+| 5 | 製品 業務用 アンプ/DSP/プロセッサ | 3 | 健全 |
+| 6 | 技術 ドライバ/振動板/磁気回路/材料 | 3 | 健全 |
+| 7 | 技術 DSP/Class-D/ANC/室内補正 | 3 | 健全 |
+| 8 | 技術 空間音響/Atmos/WFS/3D Audio | 3 | 健全 |
+| 9 | 技術 メタマテリアル/MEMS/CDT/プラズマ | 3 | 健全 |
+| 10 | 研究 論文（音響学術誌） | 3 | 健全 |
+| 11 | 研究 特許/規格 | 3 | 健全 |
+| 12 | 業界 M&A/決算/学会/規制 | 3 | 健全 |
 
-全カテゴリが「警告」だが、これは被覆設計の問題ではなく日次レポートの欠損（5日分未生成）が原因。データが揃えば全12カテゴリは健全水準に戻ると見込まれる。
+※取得できた3日すべてで全カテゴリ被覆。0日・警告カテゴリなし。分母は3日（4日分は日次未生成）。
 
 ## 新出固有名詞（カテゴリ別追加候補）
-- カテゴリ1（プロ/PA）: **EAW**（採用）, **dBTechnologies**（採用）／1 SOUND, KV2 Audio, SSL Live, RCF（次回候補）
-- カテゴリ4（イマーシブ/ネットワーク）: **1 SOUND Panorama**（採用・AES67/Milan）
-- カテゴリ5（アンプ/DSP）: **Pascal**（採用・PX Series / S-PRO2）
-- カテゴリ6（ドライバ/材料）: Powersoft MM-Force（ムービングマグネット式薄型LFドライバー）, Spixel（2.5″フルレンジ）（次回候補。OR羅列ではなくフレーズクエリ化を検討）
-- カテゴリ8（空間音響）: ATSC 1.0 地上波 Dolby Atmos（TV Azteca 実例。次回候補）
-- 概念: AHD（Adjustable Horizontal Directivity）, RDShape（3D音響シミュレーション）, MCPL（マルチキャリア・パラメトリックスピーカー）, DFC-IL（補聴器向け in-the-loop フィードバックキャンセレーション）
+- カテゴリ5（アンプ/DSP）: ICEpower、Purifi、Hypex ← うち ICEpower・Purifi を採用
+- カテゴリ7（Class-D）: GaN / Infineon CoolGaN ← "GaN Class-D amplifier" として採用
+- カテゴリ2（設備音響）: Bose Professional、Biamp、ClearOne（今回は見送り・健全のため）
+- カテゴリ4（ネットワーク音響）: AuviTran、Aurora Multimedia（今回は見送り）
+- 対象外（スコープ外＝ワイヤレスマイク）: Sennheiser Spectera / WMAS
 
-## 引用ドメイン上位（2026年累計・cited-urls-2026.txt 全1,583件）
-注: 日付別 cited-urls が分離されていないため、本表は7日窓ではなく2026年通年の累積分布。報道系メディアが大半を占め、メーカー公式は L-Acoustics のみが上位に入る＝業務用カテゴリの一次情報（メーカー公式）取得が依然手薄。
-
+## 引用ドメイン上位10
 | ドメイン | 出現回数 | 種別 |
 |---|---|---|
-| audioxpress.com | 107 | 報道（業務用専門） |
-| arxiv.org | 64 | 研究（一次） |
-| ecoustics.com | 54 | 報道（民生寄り） |
-| prosoundweb.com | 46 | 報道（プロ） |
-| whathifi.com | 28 | 報道（民生HiFi） |
-| mixonline.com | 24 | 報道（プロ/スタジオ） |
-| nature.com | 21 | 研究（一次） |
-| avnetwork.com | 20 | 報道（設備/AV） |
-| ravepubs.com | 17 | 報道（設備/AV） |
-| techradar.com | 16 | 報道（民生） |
-| sciencedirect.com | 16 | 研究（一次） |
-| l-acoustics.com | 16 | 公式（メーカー） |
+| audioxpress.com | 7 | 報道（専門） |
+| sciencedirect.com | 5 | 公式（論文） |
+| mixonline.com | 5 | 報道（専門） |
+| ravepubs.com | 4 | 報道（専門） |
+| genelec.com | 4 | 公式（メーカー） |
+| commercialintegrator.com | 4 | 報道（専門） |
+| bluetooth.com | 4 | 公式（規格団体） |
+| xmems.com | 3 | 公式（メーカー） |
+| prosoundweb.com | 3 | 報道（専門） |
+| avnetwork.com | 3 | 報道（専門） |
+
+※3レポート本文から抽出した計122 URLを集計。報道（専門メディア）と公式（メーカー/論文/規格）が概ね均衡。
 
 ## 重心バランス
-- feature / patrol-only 比率: 0 / 2（取得2件とも patrol-only）
-- feature-domain 分布: pro-pa=0, install=0, studio=0, tech=0, research=0, consumer=0（feature 記事なし）
-- consumer 出現率: 0日 → 重心警告なし
-- 業務用偏重は維持。副次ブロックの調整は不要と判断。
+- feature-domain 分布: pro-pa=0 / install=0 / studio=0 / tech=0 / research=0 / consumer=0（3件すべて patrol-only）
+- consumer 出現率: 0/3 日 → 重心警告なし（業務用偏重を維持）
 
 ## クエリ更新内容
-v1.1 → v1.2。新出ブランドの OR 羅列追記が中心で、構造変更・カテゴリ削除はなし。
-- **[1] プロ/PA**: ブランド OR クエリに `EAW` / `dBTechnologies` を追加（計2件）。
-- **[4] イマーシブ/ネットワーク**: イマーシブ・プラットフォーム OR クエリに `1 SOUND Panorama` を追加（1件）。
-- **[5] アンプ/DSP**: アンプメーカー OR クエリに `Pascal` を追加（1件）。
-- **[12] 業界**: 会期終了した `"InfoComm 2026 product announcement"` を post-show 収集向けの `"InfoComm 2026 recap best of show"` へ差替（1件）。今後30日以内に開催される大型プロ音響展示会はないため、新規イベントクエリの先頭追加は見送り。
-- year_token は 2026 のまま（年内のため変更なし）。
+- version: 1.2 → 1.3、updated_at: 2026-06-24 → 2026-06-28、year_token: 2026（継続）
+- カテゴリ5: OR羅列クエリに **ICEpower・Purifi** を追記（+2件）。OEMアンプモジュール市場の主要勢を補完。
+- カテゴリ7: 新クエリ **"GaN Class-D amplifier {YEAR}"** を追加（+1件）。GaN系Class-D（Infineon CoolGaN等）の継続トレンドを捕捉。
+- その他カテゴリ・副次ブロック・events（C12）: 変更なし。今後30日以内に該当する大型展示会がないため C12 は "InfoComm 2026 recap best of show"（recap）を維持。
+- カテゴリ削除なし（被覆性原則）。追加は各カテゴリ最大2件の上限内。
 
 ## 次回観測ポイント
-- **最優先: 日次タスクの復旧確認**。06-17 レポートが 06-18/06-19 に複製プッシュされ、06-20〜24 が未生成。`speaker-research-daily` 側の実行状況・冪等性（同日再実行時の重複防止）を点検する必要がある。これはクエリ管理の範囲外で、人間判断事項として申し送る。
-- 日次が復旧した後、本来の被覆ヒート（全12カテゴリが健全水準に戻るか）を W27 で再評価。
-- カテゴリ6（ドライバ/材料）の MM-Force / Spixel、カテゴリ8の ATSC Atmos を、データが揃い継続的に登場するようなら次サイクルで追記候補に格上げ。
-- InfoComm 2026 の post-show 総括記事（recap クエリ）が実際にヒットを生むか検証。
+- **日次パイプラインの欠落**（W25・W26連続で4日分未生成）。クエリ起因ではなく日次タスク運用の問題であり、人間判断での復旧が必要。
+- カテゴリ5/7に追加したICEpower・Purifi・GaNが次サイクルで実ヒットに繋がるかを検証。
+- メタマテリアル吸音・MEMSラウドスピーカー（C9）の論文流入が継続するか、研究系C10/C11の被覆推移。
+- 次の大型イベント（AES Convention/IBC＝秋）に向けたC12 events クエリの切替タイミング。
 
 ---
-*週次レビュー生成: Speaker Research Query Review Bot | 2026-06-24*
+*週次レビュー生成: Speaker Research Query Review Bot | 2026-06-28*
