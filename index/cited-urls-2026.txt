@@ -175,6 +175,7 @@ https://arxiv.org/abs/2605.00721
 https://arxiv.org/abs/2605.11286
 https://arxiv.org/abs/2605.15044
 https://arxiv.org/abs/2606.03832
+https://arxiv.org/abs/2606.22563
 https://arxiv.org/html/2402.08597v2
 https://arxiv.org/html/2408.14731v1
 https://arxiv.org/html/2412.04267
@@ -297,6 +298,7 @@ https://audioxpress.com/news/sonicedge-presents-integrated-mems-speaker-and-micr
 https://audioxpress.com/news/sonos-reinforces-installation-solutions-with-new-era-100-pro-speaker
 https://audioxpress.com/news/sony-electronics-launches-wf-1000xm6-truly-wireless-earbuds
 https://audioxpress.com/news/soundskrit-accelerates-mems-directional-microphone-integration-with-new-skm1600-and-skm2600-module-series
+https://audioxpress.com/news/theory-professional-showcases-full-range-single-box-sound-reinforcement-loudspeaker-at-infocomm-2026
 https://audioxpress.com/news/usound-expands-mems-speaker-integrations-to-support-health-monitoring-and-proximity-sensing
 https://audioxpress.com/news/voice-coil-april-2026-magnetics-cables-and-three-drivers-on-test-bench
 https://audioxpress.com/news/voice-coil-january-2026-puts-the-focus-on-loudspeaker-innovation
@@ -308,6 +310,7 @@ https://audioxpress.com/news/xiaomi-launches-redmi-buds-8-pro-with-55db-anc-ldac
 https://audioxpress.com/news/xmems-announces-mass-production-of-cypress-full-range-piezomems-ultrasonic-transducer
 https://audioxpress.com/news/xmems-introduces-amplifier-less-mems-tweeter-for-2-way-wireless-earbuds
 https://audioxpress.com/page/Voice-Coil-Magazine
+https://audioxpress.com/page/Voice-Coil-Media-Kit
 https://audioxpress.com/page/current-vc-issue
 https://audioxpress.com/tags/glass-acoustic-innovations-technology
 https://audioxpress.com/tags/sb-audience
@@ -333,11 +336,13 @@ https://bestofhighend.com/linn-implements-pistonik-driver-technology-in-flagship
 https://bestofhighend.com/revival-audio-atalante-grande-reserve-limited-flagship-launch/
 https://besttechradar.com/what-is-xmems/
 https://bioengineer.org/polymer-mems-loudspeaker-with-stiffened-pzt-membrane/
+https://blog.borisfx.com/press/boris-fx-acquires-vegas-pro-sound-forge-and-acid-pro
 https://blog.son-video.com/en/2026/03/harman-kardons-connected-speakers-now-feature-wi-fi/
 https://blogs.sw.siemens.com/simcenter/bemao-efficient-and-accurate-broadband-acoustic-simulation/
 https://blooloop.com/l-acoustics-ise-2026/
 https://bluesoundprofessional.com/2026/05/21/bluesound-professional-to-showcase-b240q-and-b240m-at-infocomm-2026/
 https://boseprofessional.com/blog/bose-professional-transformation
+https://brandenburg-labs.com/aes-europe-2026-convention-recap/
 https://cea.hal.science/cea-05204507v1/file/A_polymer-based_MEMS_loudspeaker_V2.pdf
 https://cecritic.com/news/av-processor/trinnov-altitudeci-scalable-aoip-home-theater-processor-at-cedia-2025
 https://cecritic.com/news/tvs/samsung-expands-audio-support-auracast-360-audio-but-what-about-dolby-atmos
@@ -379,6 +384,7 @@ https://djlifemag.com/2026/01/qsc-introduces-the-cb10-compact-battery-powered-lo
 https://doi.org/10.1002/adem.202502352
 https://doi.org/10.1016/j.sna.2026.116443
 https://doi.org/10.1051/aacus/2025067
+https://doi.org/10.1121/10.0043238
 https://doi.org/10.1145/3714394.3754416
 https://dspace.mit.edu/bitstream/handle/1721.1/159051/3712069.pdf
 https://dynaudio.com/home-audio/legend
@@ -419,6 +425,7 @@ https://fohonline.com/blogs/new-gear/meyer-sound-releases-nebra-2/
 https://fohonline.com/blogs/new-gear/mw-pro-audio-debuts-d24-and-d32-digital-mixers/
 https://fohonline.com/featured/dataland-museum-of-ai-arts-features-immersive-l-acoustics-audio/
 https://fohonline.com/featured/must-see-product-debuts-at-infocomm-2026/
+https://fohonline.com/featured/sound-reinforcement-highlights-of-infocomm-2026/
 https://fohonline.com/newsroom/international-news/international-news/international-pls-events-to-continue/
 https://fohonline.com/newsroom/news/hkademy-heads-to-infocomm-2026/
 https://fohonline.com/newsroom/news/infocomm-2026-dbtechnologies/
@@ -427,6 +434,8 @@ https://fohonline.com/newsroom/news/infocomm-preview-kv2-audio/
 https://fohonline.com/newsroom/news/l-acoustics-to-feature-source-intelligence-cs1-at-infocomm-2026/
 https://fohonline.com/newsroom/news/outline-returning-as-exhibitor-at-infocomm-2026-in-las-vegas/
 https://fohonline.com/newsroom/news/rcf-spotlights-new-portable-and-installed-sound-solutions-at-infocomm-2026/
+https://fohonline.com/newsroom/on-the-move/bose-professional-announces-rebranding-plans/
+https://forum.hearingtracker.com/t/philips-introducing-auracast-to-its-2026-tv-range/112382
 https://forum.wiimhome.com/threads/beta-testing-separate-room-correction-and-eq-available-only-on-wiim-ultra.6912/
 https://funktion-one.com/product/psm15/
 https://futureaudiophile.com/atma-sphere-class-d-gamono-amplifiers-reviewed/
@@ -446,6 +455,7 @@ https://headphoneguidepro.com/true-wireless-stereo-tws-explained/
 https://hearinghealthmatters.org/thisweek/2026/audio-hearing-care-ces2026/
 https://hearingreview.com/hearing-products/implants-bone-conduction/cochlear-implants/envoy-medical-nears-enrollment-completion-for-acclaim-cochlear-implant-trial
 https://hedd.audio/products/heddphone-d1
+https://hifi.fan/stories/aes-europe-convention-2026-announced-at-technical-university-of-denmark-in-copenhagen
 https://hifiplus.com/articles/2026-awards-active-loudspeakers/
 https://hifiplus.com/articles/icepower-announces-the-release-of-its-first-generation-sc400a2-amplifier-platform/
 https://hifiplus.com/articles/linn-360-with-pistonik-motor-system-preview/
@@ -473,9 +483,11 @@ https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12425786
 https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12470872
 https://ince.publisher.ingentaconnect.com/contentone/ince/ncej/2025/00000073/00000004/art00011
 https://infocomm26.mapyourshow.com/8_0/exhibitor/exhibitor-details.cfm?exhid=1026
+https://infocomm26.mapyourshow.com/8_0/exhibitor/exhibitor-details.cfm?exhid=880661
 https://inside.lighting/news/25-01/acuity-brands-finalizes-12-billion-qsc-deal
 https://international.kef.com/pages/metamaterial
 https://investor.dolby.com/news-events/financial-news/news-details/2026/EVO-Entertainment-to-Bring-Dolby-VisionAtmos-Across-Its-EVX-Auditoriums/default.aspx
+https://investors.clearone.com/news-releases/news-release-details/clearone-announces-closure-asset-sale-transaction
 https://iopscience.iop.org/article/10.1088/1361-6463/ae11c1
 https://iopscience.iop.org/article/10.1088/1742-6596/2786/1/012016/pdf
 https://ir.gentex.com/news-releases/news-release-details/gentex-announces-closing-voxx-international-acquisition
@@ -635,6 +647,8 @@ https://sinclairdesign.com/blog/sim-racing-haptic-feedback
 https://sistc.com/discovery-edge-ai-audio-infrastructure-ces-2026-hra381/
 https://sonance.com/blogs/news/infocomm-2026
 https://sonance.com/collections/powerzone-connect-1u-amps
+https://sonexos.com/solutions/plasmapanel/
+https://sonexos.com/technology/
 https://sonicedge.io/press-release/worlds-first-mems-speaker-microphone/
 https://sonovision.com/cannes-auditorium-lumiere-dolby-atmos/
 https://soundstageaustralia.com/index.php/features/1025-high-end-vienna-2026-coming-june-4-2026
@@ -769,9 +783,11 @@ https://www.avforums.com/news/pro-ject-adds-stream-box-e-and-wireless-box-e-to-i
 https://www.avforums.com/news/samsung-reveals-flagship-q990h-soundbar-and-new-music-studio-speakers.23201/
 https://www.avforums.com/threads/copenhagen-loudspeaker-co-clc65-monitor-with-all-purifi-drivers.2535002/
 https://www.avinteractive.com/news/audio/jbl-debuts-updated-intellivox-active-beam-shaping-speakers-03-02-2026/
+https://www.avinteractive.com/news/business/bose-professional-unveils-new-802-labs-brand-identity-18-06-2026/
 https://www.avixa.org/resources/press-releases/infocomm-2026-names-shure-as-exclusive-headline-partner-showcasing-audio-and-collaboration-innovation-across-key-activations-and-stages
 https://www.avnation.tv/2025/05/05/powersoft-to-highlight-unica-a-streamlined-energy-efficient-amplifier-platform-at-infocomm-2025/
 https://www.avnation.tv/2025/06/02/dirac-announces-that-dirac-live-active-room-treatment-is-coming-to-denon-and-marantz-devices-to-unlock-next-generation-room-correction-capabilities/
+https://www.avnation.tv/2025/11/11/aes-announces-the-international-conference-on-audio-for-virtual-and-augmented-reality-and-immersive-games-avarig2026/
 https://www.avnation.tv/2026/01/07/dirac-and-klipsch-deliver-studio-grade-sound-for-the-sevens-ii-and-the-nines-ii-powered-speakers-debuting-at-ces-2026/
 https://www.avnation.tv/2026/02/02/atlasied-launches-new-poe-powered-additions-to-the-atlasfyne-series-at-ise-2026/
 https://www.avnation.tv/2026/02/09/dante-at-ise-2026-audinate-doubles-down-on-security/
@@ -781,7 +797,9 @@ https://www.avnation.tv/2026/05/28/atlasied-powers-into-infocomm-2026-with-new-s
 https://www.avnation.tv/2026/06/03/l-acoustics-brings-source-intelligence-and-cs1-to-infocomm-2026/
 https://www.avnation.tv/2026/06/09/sennheiser-launches-teamconnect-ceiling-m-plus/
 https://www.avnation.tv/2026/06/11/powersoft-introduces-mm-force-and-spixel-transducer-technologies-for-compact-high-efficiency-audio-applications/
+https://www.avnation.tv/2026/06/16/theory-professional-previews-rock-concert-in-a-box-full-range-sound-reinforcement-loudspeaker-at-infocomm-2026/
 https://www.avnation.tv/2026/06/22/infocomm-2026-recap/
+https://www.avnetwork.com/business/coming-soon-802-labs
 https://www.avnetwork.com/business/expert-opinions/roadmap-2026-powersoft
 https://www.avnetwork.com/business/new-hires/pro-av-newsmakers-3-three-acquisitions-a-diversified-launch-and-partnerships-to-know
 https://www.avnetwork.com/events/conferences-trade-shows/infocomm-2026-by-the-numbers-official-numbers-released
@@ -794,6 +812,7 @@ https://www.avnetwork.com/events/conferences-trade-shows/infocomm-2026-product-w
 https://www.avnetwork.com/events/conferences-trade-shows/winners-announced-best-of-show-at-infocomm-2026-for-av-technology
 https://www.avnetwork.com/news/2025s-av-it-industry-mergers-acquisitions-and-other-significant-announcements
 https://www.avnetwork.com/news/acuity-to-acquire-qsc
+https://www.avnetwork.com/news/biamp-clearone-execs-offer-further-clarity-on-acquisition
 https://www.avnetwork.com/news/how-d-and-b-audiotechnik-soundscape-enables-immersive-worship
 https://www.avnetwork.com/news/powersoft-acquires-k-array
 https://www.avnetwork.com/news/sonance-acquires-blaze-audio
@@ -817,6 +836,7 @@ https://www.bhphotovideo.com/explora/pro-audio/news/jbl-expands-srx900-series-wi
 https://www.biamp.com/
 https://www.biamp.com/company/biamp-50
 https://www.biamp.com/company/events-and-tradeshows/infocomm-2026
+https://www.biamp.com/company/press-releases/press-release-detail/biamp-announces-asset-acquisition-of-clearone-intellectual-property-and-brands
 https://www.biamp.com/latest-announcements/2026/may/prod/discover-the-latest-tesira-improvements--expanded-hardware-support--and-reliability-enhancements
 https://www.blackmagicdesign.com/products/fairlightlive
 https://www.bluetooth.com/auracast/
@@ -984,6 +1004,7 @@ https://www.ecoustics.com/products/ruark-talisman-r-high-end-vienna-2026/
 https://www.ecoustics.com/products/samsung-audio-2026/
 https://www.ecoustics.com/products/sonos-era-100-pro/
 https://www.ecoustics.com/products/svs-3000-micro-revolution/
+https://www.ecoustics.com/products/theory-p9-pendant-speakers/
 https://www.ecoustics.com/products/triangle-capella-2/
 https://www.ecoustics.com/products/trinnov-altitude-ci/
 https://www.ecoustics.com/products/wharfedale-denton-1s/
@@ -1106,6 +1127,7 @@ https://www.hifiverse.io/articles/audio/best-class-d-amplifiers-in-2026
 https://www.hifiverse.io/news/audio/gobel-divin-monarque-loudspeakers
 https://www.hifiverse.io/news/audio/paradigm-premier-v2-speaker-series
 https://www.highendsociety.de/high-end-44.html
+https://www.hollywoodreporter.com/movies/movie-news/cinemacon-2026-caesars-palace-venue-dolby-colosseum-1236541623/
 https://www.holoplot.com/case-studies/msg-sphere-case-study
 https://www.holoplot.com/products/holoplot-x1
 https://www.holosonics.com/patents
@@ -1134,6 +1156,7 @@ https://www.installation-international.com/product-news/powersoft-launches-compa
 https://www.installation-international.com/technology/audio/db-and-l-acoustics-join-forces-on-noise-prediction-standard
 https://www.installation-international.com/technology/audio/sennheiser-takes-spectera-to-eurovision-for-first-time
 https://www.intelmarketresearch.com/sound-bar-speaker-market-31284
+https://www.ircam.fr/en/events/6th-audio-engineering-society-aes
 https://www.isca-archive.org/interspeech_2025/zhao25e_interspeech.pdf
 https://www.isp-audio.com/en/new-product/audio-new-product/12632-celestion-strengthens-its-professional-driver-lineup-with-the-cnx0820-and-the-tsq2160
 https://www.isp-audio.com/en/new-product/audio-new-product/12672-faitalpro-2026-focuses-on-power-control-and-reliability-in-every-transducer
@@ -1190,6 +1213,7 @@ https://www.lightsoundjournal.com/2026/05/30/solid-state-logic-to-present-tca-to
 https://www.lightsoundjournal.com/2026/06/09/outline-makes-a-major-comeback-at-infocomm-2026-in-las-vegas/
 https://www.listentech.com/auracast-and-iphone-what-you-can-do-now-and-whats-coming-next/
 https://www.livedesignonline.com/gear/db-audiotechnik-presents-ds110-soundscape-processing-engine
+https://www.livedesignonline.com/news/bose-professional-previews-upcoming-brand-change
 https://www.livedesignonline.com/news/holophonix-unveils-version-240-and-previews-next-generation-spatial-audio-technologies-ise
 https://www.livedesignonline.com/news/infocomm-2026-solid-state-logic-present-tca-tour-live-v62-software-and-new-ssl-live-trade
 https://www.livedesignonline.com/news/l-acoustics-showcases-new-l-isa-and-soundvision-updates-namm-show-2026
@@ -1339,6 +1363,7 @@ https://www.powersoft.com/en/announcement/powersoft-unveils-mm-force-and-spixel
 https://www.powersystemsdesign.com/articles/a-new-era-in-audio-performance-with-infineons-merus-multilevel-class-d-amplifiers/29/14403
 https://www.prnewswire.com/news-releases/bose-launches-the-lifestyle-collection-modular-speaker-dolby-atmos-soundbar-and-wireless-subwoofer-for-flexible-home-audio-302773258.html
 https://www.prnewswire.com/news-releases/earfun-ushers-in-a-new-era-of-wireless-audio-with-launch-of-first-hi-res-ai-powered-clip-2-earbuds-302754284.html
+https://www.prnewswire.com/news-releases/evo-entertainment-to-bring-dolby-visionatmos-across-its-evx-auditoriums-302743621.html
 https://www.prnewswire.com/news-releases/garmin-redefines-luxury-home-audio-with-revolutionary-new-primacy-system-from-jl-audio-302762412.html
 https://www.prnewswire.com/news-releases/goertek-showcases-full-stack-innovations-in-acoustics-and-sensing-at-ces-2026-302656965.html
 https://www.prnewswire.com/news-releases/goertek-unveils-next-generation-technologies-at-ces-2026-302655173.html
@@ -1359,6 +1384,8 @@ https://www.prosoundweb.com/audinate-to-highlight-avoip-networking-developments-
 https://www.prosoundweb.com/audio-engineering-society-announces-aes-show-nashville-for-2026/
 https://www.prosoundweb.com/audio-technica-announces-new-atsp-30-network-ceiling-loudspeakers/
 https://www.prosoundweb.com/bassboss-returning-to-soundcheck-xpo-2026-in-mexico-city/
+https://www.prosoundweb.com/biamp-announces-asset-acquisition-of-clearone-intellectual-property-brands/
+https://www.prosoundweb.com/boris-fx-announces-acquisition-of-vegas-pro-sound-forge-acid-pro/
 https://www.prosoundweb.com/bose-professional-expands-designmax-line/
 https://www.prosoundweb.com/celestion-introduces-new-patented-lensguide-technology/
 https://www.prosoundweb.com/coda-audio-announces-new-viforce-line-array-sub-force-35-companion-subwoofer/
@@ -1398,6 +1425,7 @@ https://www.prosoundweb.com/solid-state-logic-to-present-new-tca-tour-more-at-20
 https://www.prosoundweb.com/sonance-professional-to-present-several-recent-developments-at-2026-infocomm-show/
 https://www.prosoundweb.com/sound-productions-announces-acquisition-of-proaudio-com/
 https://www.prosoundweb.com/spotlight-the-rapid-development-of-modern-power-amplifier-platforms/
+https://www.prosoundweb.com/theory-professional-previewing-new-sr-221-3-loudspeaker-at-2026-infocomm-show/
 https://www.psu.edu/news/engineering/story/3d-printed-speaker-cover-can-focus-audio-private-sound-spot
 https://www.qsc.com/acuity
 https://www.qscaudio.com/news/news/detail/qsc-expands-its-portfolio-with-battery-powered-loudspeaker-mobile-control-app-and-next-generation/
