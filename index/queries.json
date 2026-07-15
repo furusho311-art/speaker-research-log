@@ -1,8 +1,8 @@
 {
-  "version": "1.4",
-  "updated_at": "2026-07-06",
+  "version": "1.5",
+  "updated_at": "2026-07-15",
   "year_token": "2026",
-  "rationale": "第4サイクル。直近7日は07-01/02/04の3レポート（07-03は07-02の複製＝日次コピー誤り、06-30/07-05/07-06未生成）。3日とも全12カテゴリ被覆で全健全・0日なし・consumer0で重心警告なし。新出Theory Professional(C1)/Barefoot Sound(C3)/HOLOPLOT(C4)/LEA Professional(C5)を固有名詞OR追加、窒化鉄・レアアースフリー磁石(C6)を新クエリ追加。C12は終了InfoComm recapを7/29-31開催AES Automotive Audio Conferenceに差替。年号2026継続、カテゴリ削除なし。",
+  "rationale": "週次レビュー(2026-W29): 全12カテゴリが取得4日全てでカバーされ健全。0日カテゴリ・consumer偏重なし。新出ブランドをOR羅列に追記(cat3:Dynaudio, cat5:Orchard Audio/Peak Amplification)。AES Automotive Audio 2026(7/29-31)は既にcat12先頭に存在のため据置。year_token=2026据置。",
   "categories": [
     {
       "id": 1,
@@ -35,7 +35,7 @@
       "queries": [
         "studio monitor {YEAR}",
         "near-field monitor {YEAR}",
-        "Genelec OR Neumann OR ATC OR Focal Pro OR PMC OR Adam Audio OR Barefoot Sound {YEAR}",
+        "Genelec OR Neumann OR ATC OR Focal Pro OR PMC OR Adam Audio OR Barefoot Sound OR Dynaudio {YEAR}",
         "broadcast monitor {YEAR}"
       ]
     },
@@ -58,7 +58,7 @@
         "touring amplifier {YEAR}",
         "install amplifier {YEAR}",
         "DSP processor pro audio {YEAR}",
-        "Powersoft OR Lab Gruppen OR Crown OR QSC OR Linea Research OR Pascal OR ICEpower OR Purifi OR LEA Professional {YEAR}"
+        "Powersoft OR Lab Gruppen OR Crown OR QSC OR Linea Research OR Pascal OR ICEpower OR Purifi OR LEA Professional OR Orchard Audio OR Peak Amplification {YEAR}"
       ]
     },
     {
