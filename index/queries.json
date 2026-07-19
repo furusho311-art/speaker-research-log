@@ -1,8 +1,8 @@
 {
-  "version": "1.5",
-  "updated_at": "2026-07-15",
+  "version": "1.6",
+  "updated_at": "2026-07-19",
   "year_token": "2026",
-  "rationale": "週次レビュー(2026-W29): 全12カテゴリが取得4日全てでカバーされ健全。0日カテゴリ・consumer偏重なし。新出ブランドをOR羅列に追記(cat3:Dynaudio, cat5:Orchard Audio/Peak Amplification)。AES Automotive Audio 2026(7/29-31)は既にcat12先頭に存在のため据置。year_token=2026据置。",
+  "rationale": "週次レビュー(2026-W29): 直近7日のうち有効レポートは4日(07-15〜18)、07-13/14は欠測・07-19は07-15の重複保存。全12カテゴリが4/4日カバーで健全、0日カテゴリ・consumer偏重なし。新出ブランドをOR羅列に追記(cat1:Amadeus/Optimal Audio, cat4:TiMax, cat6:Niron Magnetics)。AES Automotive Audio 2026(7/29-31 Detroit)はcat12先頭に既存のため据置。year_token=2026据置。",
   "categories": [
     {
       "id": 1,
@@ -12,7 +12,7 @@
         "line array new product {YEAR}",
         "touring sound {YEAR}",
         "outdoor PA system {YEAR}",
-        "L-Acoustics OR d&b OR Meyer OR Adamson OR Nexo OR JBL VTX OR Coda Audio OR Martin Audio OR EAW OR dBTechnologies OR Theory Professional {YEAR}",
+        "L-Acoustics OR d&b OR Meyer OR Adamson OR Nexo OR JBL VTX OR Coda Audio OR Martin Audio OR EAW OR dBTechnologies OR Theory Professional OR Amadeus OR Optimal Audio {YEAR}",
         "subwoofer touring {YEAR}"
       ]
     },
@@ -44,7 +44,7 @@
       "name": "製品 業務用 イマーシブ/ネットワーク音響",
       "weight": 3,
       "queries": [
-        "L-ISA OR Soundscape OR Holoplot OR Spacemap OR HOLOPHONIX OR 1 SOUND Panorama OR DirectOut {YEAR}",
+        "L-ISA OR Soundscape OR Holoplot OR Spacemap OR HOLOPHONIX OR 1 SOUND Panorama OR DirectOut OR TiMax {YEAR}",
         "Dante AVB AES67 deployment {YEAR}",
         "immersive install {YEAR}",
         "AES70 OCA Milan {YEAR}"
@@ -70,7 +70,7 @@
         "neodymium motor {YEAR}",
         "loudspeaker diaphragm material {YEAR}",
         "large format driver {YEAR}",
-        "iron nitride OR rare-earth-free magnet driver {YEAR}"
+        "iron nitride OR Niron Magnetics OR rare-earth-free magnet driver {YEAR}"
       ]
     },
     {
