@@ -1,8 +1,8 @@
 {
-  "version": "1.6",
-  "updated_at": "2026-07-19",
+  "version": "1.7",
+  "updated_at": "2026-07-26",
   "year_token": "2026",
-  "rationale": "週次レビュー(2026-W29): 直近7日のうち有効レポートは4日(07-15〜18)、07-13/14は欠測・07-19は07-15の重複保存。全12カテゴリが4/4日カバーで健全、0日カテゴリ・consumer偏重なし。新出ブランドをOR羅列に追記(cat1:Amadeus/Optimal Audio, cat4:TiMax, cat6:Niron Magnetics)。AES Automotive Audio 2026(7/29-31 Detroit)はcat12先頭に既存のため据置。year_token=2026据置。",
+  "rationale": "週次レビュー(2026-W30): 直近7日は全12カテゴリが7/7日カバーで健全、consumer 0日で重心も良好。0日/警告カテゴリなしのため差替なし。新出ブランドを追加: cat1にRCF/K-array、cat6にLavoce/SB Audience、cat2に設備音響ブランドOR(SoundTube等)を新設。cat12にCEDIAを追記。year_token=2026据置。",
   "categories": [
     {
       "id": 1,
@@ -12,7 +12,7 @@
         "line array new product {YEAR}",
         "touring sound {YEAR}",
         "outdoor PA system {YEAR}",
-        "L-Acoustics OR d&b OR Meyer OR Adamson OR Nexo OR JBL VTX OR Coda Audio OR Martin Audio OR EAW OR dBTechnologies OR Theory Professional OR Amadeus OR Optimal Audio {YEAR}",
+        "L-Acoustics OR d&b OR Meyer OR Adamson OR Nexo OR JBL VTX OR Coda Audio OR Martin Audio OR EAW OR dBTechnologies OR Theory Professional OR Amadeus OR Optimal Audio OR RCF OR K-array {YEAR}",
         "subwoofer touring {YEAR}"
       ]
     },
@@ -25,7 +25,8 @@
         "ceiling speaker commercial {YEAR}",
         "pendant speaker {YEAR}",
         "column array install {YEAR}",
-        "digital signage audio {YEAR}"
+        "digital signage audio {YEAR}",
+        "SoundTube OR Sonance OR DAS Audio OR Biamp OR Atlas IED {YEAR}"
       ]
     },
     {
@@ -70,7 +71,7 @@
         "neodymium motor {YEAR}",
         "loudspeaker diaphragm material {YEAR}",
         "large format driver {YEAR}",
-        "iron nitride OR Niron Magnetics OR rare-earth-free magnet driver {YEAR}"
+        "iron nitride OR Niron Magnetics OR rare-earth-free magnet driver OR Lavoce OR SB Audience {YEAR}"
       ]
     },
     {
@@ -139,7 +140,7 @@
         "AES Automotive Audio Conference 2026 Detroit",
         "pro audio acquisition {YEAR}",
         "audio industry consolidation {YEAR}",
-        "ISE NAMM AES Convention InfoComm Prolight+Sound {YEAR}",
+        "ISE NAMM AES Convention InfoComm CEDIA Prolight+Sound {YEAR}",
         "LSI Live Sound Industry {YEAR}"
       ]
     }
