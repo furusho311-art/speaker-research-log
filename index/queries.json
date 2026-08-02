@@ -1,8 +1,8 @@
 {
-  "version": "1.7",
-  "updated_at": "2026-07-26",
+  "version": "1.8",
+  "updated_at": "2026-08-02",
   "year_token": "2026",
-  "rationale": "週次レビュー(2026-W30): 直近7日は全12カテゴリが7/7日カバーで健全、consumer 0日で重心も良好。0日/警告カテゴリなしのため差替なし。新出ブランドを追加: cat1にRCF/K-array、cat6にLavoce/SB Audience、cat2に設備音響ブランドOR(SoundTube等)を新設。cat12にCEDIAを追記。year_token=2026据置。",
+  "rationale": "週次W31: 直近7日は全12カテゴリ7/7日カバー・consumer0日で健全、0日/警告なし。新出追加: cat1 TT+ Audio/cat2 Fyne・Origin Acoustics/cat5 Hypex/cat6 B&C Speakers。cat12終了イベントをIBC・CEDIA Expo 2026に差替。year_token=2026据置。",
   "categories": [
     {
       "id": 1,
@@ -12,7 +12,7 @@
         "line array new product {YEAR}",
         "touring sound {YEAR}",
         "outdoor PA system {YEAR}",
-        "L-Acoustics OR d&b OR Meyer OR Adamson OR Nexo OR JBL VTX OR Coda Audio OR Martin Audio OR EAW OR dBTechnologies OR Theory Professional OR Amadeus OR Optimal Audio OR RCF OR K-array {YEAR}",
+        "L-Acoustics OR d&b OR Meyer OR Adamson OR Nexo OR JBL VTX OR Coda Audio OR Martin Audio OR EAW OR dBTechnologies OR Theory Professional OR Amadeus OR Optimal Audio OR RCF OR K-array OR TT+ Audio {YEAR}",
         "subwoofer touring {YEAR}"
       ]
     },
@@ -26,7 +26,7 @@
         "pendant speaker {YEAR}",
         "column array install {YEAR}",
         "digital signage audio {YEAR}",
-        "SoundTube OR Sonance OR DAS Audio OR Biamp OR Atlas IED {YEAR}"
+        "SoundTube OR Sonance OR DAS Audio OR Biamp OR Atlas IED OR Fyne Audio OR Origin Acoustics {YEAR}"
       ]
     },
     {
@@ -59,7 +59,7 @@
         "touring amplifier {YEAR}",
         "install amplifier {YEAR}",
         "DSP processor pro audio {YEAR}",
-        "Powersoft OR Lab Gruppen OR Crown OR QSC OR Linea Research OR Pascal OR ICEpower OR Purifi OR LEA Professional OR Orchard Audio OR Peak Amplification {YEAR}"
+        "Powersoft OR Lab Gruppen OR Crown OR QSC OR Linea Research OR Pascal OR ICEpower OR Purifi OR LEA Professional OR Orchard Audio OR Peak Amplification OR Hypex {YEAR}"
       ]
     },
     {
@@ -71,7 +71,7 @@
         "neodymium motor {YEAR}",
         "loudspeaker diaphragm material {YEAR}",
         "large format driver {YEAR}",
-        "iron nitride OR Niron Magnetics OR rare-earth-free magnet driver OR Lavoce OR SB Audience {YEAR}"
+        "iron nitride OR Niron Magnetics OR rare-earth-free magnet driver OR Lavoce OR SB Audience OR B&C Speakers {YEAR}"
       ]
     },
     {
@@ -137,7 +137,7 @@
       "name": "業界 M&A/決算/学会/規制",
       "weight": 2,
       "queries": [
-        "AES Automotive Audio Conference 2026 Detroit",
+        "IBC 2026 CEDIA Expo 2026 audio product announcement",
         "pro audio acquisition {YEAR}",
         "audio industry consolidation {YEAR}",
         "ISE NAMM AES Convention InfoComm CEDIA Prolight+Sound {YEAR}",
