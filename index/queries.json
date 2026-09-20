@@ -1,8 +1,8 @@
 {
-  "version": "1.9",
-  "updated_at": "2026-08-09",
+  "version": "2.0",
+  "updated_at": "2026-09-20",
   "year_token": "2026",
-  "rationale": "週次W32: 直近7日は全12カテゴリ7/7日カバー・consumer0日で健全、0日/警告なし。新出追加: cat1 KV2 Audio・Alcons Audio/cat2 Renkus-Heinz・Extron/cat3 KRK/cat6 Beyma。cat12先頭イベントを直近開催のCEDIA Expo 2026優先へ差替。year_token=2026据置。",
+  "rationale": "週次W38: 日次が2026-08-11で停止し直近7日0件。代替に08-05〜08-11の6日を分析。全12カテゴリ6/6日カバー・consumer0日で健全。新出8件追加(cat1/2/6/9)、cat8にBluetooth HDT追加、cat12の開催済CEDIA/IBCをAES Nashville・NAB NYへ差替。",
   "categories": [
     {
       "id": 1,
@@ -12,7 +12,7 @@
         "line array new product {YEAR}",
         "touring sound {YEAR}",
         "outdoor PA system {YEAR}",
-        "L-Acoustics OR d&b OR Meyer OR Adamson OR Nexo OR JBL VTX OR Coda Audio OR Martin Audio OR EAW OR dBTechnologies OR Theory Professional OR Amadeus OR Optimal Audio OR RCF OR K-array OR TT+ Audio OR KV2 Audio OR Alcons Audio {YEAR}",
+        "L-Acoustics OR d&b OR Meyer OR Adamson OR Nexo OR JBL VTX OR Coda Audio OR Martin Audio OR EAW OR dBTechnologies OR Theory Professional OR Amadeus OR Optimal Audio OR RCF OR K-array OR TT+ Audio OR KV2 Audio OR Alcons Audio OR Funktion-One OR Mackie {YEAR}",
         "subwoofer touring {YEAR}"
       ]
     },
@@ -26,7 +26,7 @@
         "pendant speaker {YEAR}",
         "column array install {YEAR}",
         "digital signage audio {YEAR}",
-        "SoundTube OR Sonance OR DAS Audio OR Biamp OR Atlas IED OR Fyne Audio OR Origin Acoustics OR Renkus-Heinz OR Extron {YEAR}"
+        "SoundTube OR Sonance OR DAS Audio OR Biamp OR Atlas IED OR Fyne Audio OR Origin Acoustics OR Renkus-Heinz OR Extron OR Sennheiser OR Fulcrum Acoustic {YEAR}"
       ]
     },
     {
@@ -71,7 +71,7 @@
         "neodymium motor {YEAR}",
         "loudspeaker diaphragm material {YEAR}",
         "large format driver {YEAR}",
-        "iron nitride OR Niron Magnetics OR rare-earth-free magnet driver OR Lavoce OR SB Audience OR B&C Speakers OR Beyma {YEAR}"
+        "iron nitride OR Niron Magnetics OR rare-earth-free magnet driver OR Lavoce OR SB Audience OR B&C Speakers OR Beyma OR SEAS OR Celestion {YEAR}"
       ]
     },
     {
@@ -94,7 +94,8 @@
         "Dolby Atmos venue {YEAR}",
         "wave field synthesis {YEAR}",
         "Auracast deployment {YEAR}",
-        "3D audio install {YEAR}"
+        "3D audio install {YEAR}",
+        "Bluetooth HDT high data throughput lossless audio {YEAR}"
       ]
     },
     {
@@ -103,7 +104,7 @@
       "weight": 2,
       "queries": [
         "acoustic metamaterial {YEAR}",
-        "xMEMS OR MEMS speaker {YEAR}",
+        "xMEMS OR Knowles OR Syntiant OR MEMS speaker {YEAR}",
         "corona discharge transducer {YEAR}",
         "plasma loudspeaker {YEAR}"
       ]
@@ -137,7 +138,7 @@
       "name": "業界 M&A/決算/学会/規制",
       "weight": 2,
       "queries": [
-        "CEDIA Expo 2026 IBC 2026 audio product announcement",
+        "AES Show Nashville 2026 NAB Show New York 2026 audio product announcement",
         "pro audio acquisition {YEAR}",
         "audio industry consolidation {YEAR}",
         "ISE NAMM AES Convention InfoComm CEDIA Prolight+Sound {YEAR}",
