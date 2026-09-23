@@ -225,6 +225,7 @@ https://arxiv.org/abs/2606.18480
 https://arxiv.org/abs/2606.22563
 https://arxiv.org/abs/2606.31552
 https://arxiv.org/abs/2607.04471
+https://arxiv.org/abs/2608.02203
 https://arxiv.org/html/2402.08597v2
 https://arxiv.org/html/2408.14731v1
 https://arxiv.org/html/2412.04267
@@ -345,6 +346,7 @@ https://audioxpress.com/news/faitalpro-introduces-wide-range-of-professional-aud
 https://audioxpress.com/news/final-introduces-tonalite-personalized-wireless-earbuds-using-3d-head-and-ear-scanning-technology
 https://audioxpress.com/news/focal-unveils-mu-so-hekla-all-in-one-immersive-home-cinema-system
 https://audioxpress.com/news/fourier-audio-shows-why-digico-bought-the-startup-company-on-day-one
+https://audioxpress.com/news/fulcrum-acoustic-announces-fulcrum-immersive-following-acquisition-of-venueflex
 https://audioxpress.com/news/gan-systems-and-axign-demonstrate-new-500w-class-d-reference-audio-amplifier
 https://audioxpress.com/news/genelec-expands-professional-monitoring-ecosystem-with-new-dante-and-aes67-system-management-device
 https://audioxpress.com/news/genelec-launches-new-8380a-three-way-midfield-sam-monitor
@@ -739,6 +741,7 @@ https://klippel.de/manuals/docs/transducer-parameter-identification/fastlsi/fast
 https://l-acoustics.com/products/source-intelligence/
 https://latamstage.com/en/dbtechnologies-unveils-the-vio-l1608-an-ultra-compact-system-built-to-sound-big/
 https://latamstage.com/en/eaw-unleashes-three-newport-series-additions-at-infocomm/
+https://latamstage.com/en/meyer-sound-debuts-tigra-and-1800-lfc-at-infocomm-2026/
 https://latamstage.com/en/meyer-sound-previews-tigra-and-1800-lfc-at-namm-2026-with-a-clear-focus-on-the-latin-american-market/
 https://lavocespeakers.com/product/dn14-300t/
 https://leaprofessional.com/blog/dsp-in-professional-audio-amplifiers/
@@ -1242,6 +1245,7 @@ https://www.avnetwork.com/events/conferences-trade-shows/infocomm-2026-product-w
 https://www.avnetwork.com/events/conferences-trade-shows/listen-up-and-take-a-booth-tour-from-these-audio-giants-at-infocomm-2026
 https://www.avnetwork.com/events/conferences-trade-shows/winners-announced-best-of-show-at-infocomm-2026-for-av-technology
 https://www.avnetwork.com/features/immersive-audio-gains-a-foothold-in-corporate-installs
+https://www.avnetwork.com/installations/education/renkus-heinz-transforms-audio-clarity-at-university
 https://www.avnetwork.com/installations/hennepin-arts-modernizes-the-historic-state-theatre-with-upgrades-sound-system
 https://www.avnetwork.com/installations/how-digico-consoles-helped-fellowship-church-elevate-its-worship-environment
 https://www.avnetwork.com/installations/l-acoustics-helps-control-not-just-how-an-exhibition-sounds-but-how-it-feels-at-dataland
@@ -1446,6 +1450,7 @@ https://www.digitalavmagazine.com/en/2026/05/25/bluesound-professional-regresa-a
 https://www.digitalavmagazine.com/en/2026/05/26/rcf-estrenos-mundiales-directos-instalaciones-fijas-infocomm-2026/
 https://www.digitalcinemareport.com/cinemacon-names-caesars-palace-venue-the-dolby-colosseum-for-duration-of-the-show/
 https://www.digitalsignagetoday.com/news/kramer-showcasing-peaker-portfolio-at-infocomm/
+https://www.digitalstudioindia.com/broadcasting/solid-state-logic-tca-tour-portable-broadcast
 https://www.digitimes.com/news/a20260424PD230/samsung-harman-revenue-adas.html
 https://www.dinaburgtech.com/
 https://www.dirac.com/press/ART-for_Arcam_Radia
@@ -1634,6 +1639,8 @@ https://www.fraport.com/en/newsroom/press-releases/2026/q1/frankfurt-airport-bec
 https://www.frontiersin.org/journals/acoustics/articles/10.3389/facou.2026.1802446/full
 https://www.frontiersin.org/journals/materials/articles/10.3389/fmats.2025.1626945/full
 https://www.fulcrum-acoustic.com/news/fulcrum-acoustic-joins-the-bose-professional-family
+https://www.fulcrum-acoustic.com/news/fulcrum-acoustic-to-demonstrate-immersive-audio-technologies-at-ise-2026
+https://www.fulcrum-acoustic.com/products/venueflex
 https://www.funky-junk.com/new-from-namm-2026/
 https://www.futuremarketinsights.com/reports/loudspeaker-market
 https://www.futuremarketinsights.com/reports/vehicle-acoustic-dsp-chips-market
@@ -1782,6 +1789,7 @@ https://www.infralog.in/acoustic-metamaterial-can-send-complex-signals-directly-
 https://www.inmusicbrands.com/press/inmusic-native/
 https://www.installation-international.com/business/acquisitions/biamp-acquires-clearone-intellectual-property-and-brands
 https://www.installation-international.com/business/distribution/lea-professional-expands-into-new-zealand-with-nsl-group
+https://www.installation-international.com/case-studies/renkus-heinz-audio-upgrades-birmingham-medical-school
 https://www.installation-international.com/infocomm/atlasied-to-unveil-expanded-audio-and-security-portfolio
 https://www.installation-international.com/infocomm/aurora-multimedia-to-bring-dante-over-wi-fi-to-las-vegas
 https://www.installation-international.com/infocomm/best-of-show-at-infocomm-2026-winners-revealed
@@ -1908,6 +1916,7 @@ https://www.lsionline.com/news/infocomm-2026-powersoft-unveils-new-oem-technolog
 https://www.lsionline.com/news/infocomm-2026-rcf-spotlights-portable-and-installed-solutions/
 https://www.lsionline.com/news/ise-2026-celestion-unveils-lensguide/
 https://www.lsionline.com/news/kelsey-acoustics-milan-avb-certification/
+https://www.lsionline.com/news/l-acoustics-introduces-l1-and-cs1-for-large-scale-sound/
 https://www.lsionline.com/news/lea-professional-expands-stadium-audio-at-yukon-high/
 https://www.lsionline.com/news/namm-2026-jbl-expands-srx900-series/
 https://www.lsionline.com/news/powersoft-introduces-four-channel-prima-range/
@@ -1961,6 +1970,7 @@ https://www.mixonline.com/news/aes-show-moves-to-nashville-in-2026
 https://www.mixonline.com/news/bose-professional-acquires-fulcrum-acoustic
 https://www.mixonline.com/news/mix-infocomm-2026-best-of-show-winners-announced
 https://www.mixonline.com/news/seen-on-the-scene-infocomm-2026-part-1
+https://www.mixonline.com/post-and-broadcast/ssls-tca-tour-to-make-ibc-2026-debut
 https://www.mixonline.com/recording/facilities/sweetwater-airstream-unveil-atmos-mobile-recording-studio
 https://www.mixonline.com/recording/music-production/preparing-students-for-an-immersive-industry
 https://www.mixonline.com/technology/motu-announces-milan-certification-for-audio-interfaces
@@ -1986,12 +1996,14 @@ https://www.mixonline.com/technology/news-products/studio-technologies-readies-d
 https://www.mixonline.com/technology/news-products/the-freedman-group-partners-with-audinate-for-dante-integration
 https://www.mixonline.com/the-wire/atlasied-introduces-atlasfyne-premium-pendant-loudspeakers-at-infocomm-2026
 https://www.mixonline.com/the-wire/atlasied-powers-into-infocomm-2026-with-new-solutions-for-every-market
+https://www.mixonline.com/the-wire/audio-engineering-society-announces-updates-for-aes-show-nashville-2026-and-aesnab-new-york-stage
 https://www.mixonline.com/the-wire/celestion-launches-the-cnx0820-coaxial-driver-at-ise-2026-featuring-compact-high-performance-common-motor-technology-with-integrated-horn
 https://www.mixonline.com/the-wire/celestion-to-showcase-impressive-range-of-pro-audio-products-and-solutions-at-prolight-sound-guangzhou-2026
 https://www.mixonline.com/the-wire/celestion-to-showcase-the-breakthrough-pxt6000-rectangular-exit-compression-driver-at-infocomm-2026
 https://www.mixonline.com/the-wire/dataland-opens-as-the-worlds-first-museum-of-ai-arts-featuring-immersive-audio-by-l-acoustics-l-isa-and-ambiance
 https://www.mixonline.com/the-wire/db-audiotechnik-and-l-acoustics-unite-with-soundplan-to-launch-sde-system-design-exchange
 https://www.mixonline.com/the-wire/db-audiotechnik-presents-ds110-soundscape-processing-engine
+https://www.mixonline.com/the-wire/db-audiotechnik-presents-the-ccli-compact-cardioid-line-array-delivering-precise-sound-and-elegant-design-for-fixed-installations
 https://www.mixonline.com/the-wire/db-audiotechnik-reshapes-compact-multipurpose-point-source-loudspeaker-category-introducing-the-u-series
 https://www.mixonline.com/the-wire/dpa-advances-integrated-audio-solutions-for-pro-av-environments-at-infocomm-2026
 https://www.mixonline.com/the-wire/eaw-unleashes-three-newport-series-additions-at-infocomm-2026
@@ -2233,12 +2245,14 @@ https://www.prosoundweb.com/qsc-to-be-acquired-by-technology-company-acuity-bran
 https://www.prosoundweb.com/rcf-directout-announce-strategic-technology-partnership/
 https://www.prosoundweb.com/registration-now-open-for-2026-infocomm-show-in-las-vegas/
 https://www.prosoundweb.com/renkus-heinz-announces-plans-for-2026-infocomm-show/
+https://www.prosoundweb.com/renkus-heinz-brings-clarity-to-the-university-of-birmingham-in-the-uk/
 https://www.prosoundweb.com/renkus-heinz-delivers-at-mahindra-university-auditorium-in-india/
 https://www.prosoundweb.com/renkus-heinz-launches-new-iclx-48s-subwoofer/
 https://www.prosoundweb.com/sennheiser-group-to-present-latest-developments-at-2026-nab-show/
 https://www.prosoundweb.com/shure-debuts-new-ai-enabled-mxa925-ceiling-array-microphone/
 https://www.prosoundweb.com/solid-state-logic-launches-tca-tour-fly-away-system/
 https://www.prosoundweb.com/solid-state-logic-to-present-new-tca-tour-more-at-2026-infocomm-show/
+https://www.prosoundweb.com/solid-state-logic-to-showcase-tca-tour-fly-away-system-at-ibc-2026/
 https://www.prosoundweb.com/sonance-announces-availability-of-new-professional-series-high-output-loudspeaker-family/
 https://www.prosoundweb.com/sonance-professional-to-present-several-recent-developments-at-2026-infocomm-show/
 https://www.prosoundweb.com/sound-productions-announces-acquisition-of-proaudio-com/
@@ -2272,6 +2286,7 @@ https://www.redsharknews.com/audiotonix-acquires-dpa-wisycom-austrian-audio
 https://www.redsharknews.com/sonos-play-era-100-sl-2026-speakers
 https://www.redtech.pro/genelec-debuts-new-three-way-monitor/
 https://www.renaissancecapital.com/IPO-Center/News/120304/Edge-AI-chip-designer-Syntiant-files-for-an-estimated-$300-million-IPO
+https://www.renkus-heinz.com/iconyx-gen-5
 https://www.reportprime.com/piezoelectric-speaker-r1823
 https://www.researchandmarkets.com/reports/6103646/voice-ai-in-smart-homes-market-report
 https://www.researchandmarkets.com/reports/6104763/consumer-audio-market-report
@@ -2350,6 +2365,7 @@ https://www.skyquestt.com/report/pro-av-market
 https://www.smarthomeworld.in/devialet-debuts-phantom-ultimate-ci-with-native-dante/
 https://www.solidstatelogic.com
 https://www.solidstatelogic.com/
+https://www.solidstatelogic.com/products/system-t/tca-tour
 https://www.sonos.com
 https://www.sonos.com/en-us/shop/era-100-pro
 https://www.sonos.com/en/blog/sonos-pro-commercial-spaces
@@ -2433,6 +2449,7 @@ https://www.strata-gee.com/video-projector-maker-barco-acquires-audio-company-ve
 https://www.stuff.tv/news/pioneer-sphera-carplay-dolby-atmos-spatial-audio/
 https://www.sv-audio.com/astrid/
 https://www.svconline.com/proav-today/soundpro-acquires-proaudio-com
+https://www.svconline.com/products/audio/more-0/tech-roundup-electroacoustics-and-spatial-audio-2026
 https://www.svconline.com/products/audio/more-0/tech-roundup-power-amplifiers
 https://www.svconline.com/the-wire/aurora-multimedia-introduces-dante-aes67-over-wi-fi
 https://www.svconline.com/the-wire/just-announced-latest-patents-cover-performance-improvements-407897
