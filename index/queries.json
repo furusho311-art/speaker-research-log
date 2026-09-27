@@ -1,8 +1,8 @@
 {
-  "version": "2.0",
-  "updated_at": "2026-09-20",
+  "version": "2.1",
+  "updated_at": "2026-09-27",
   "year_token": "2026",
-  "rationale": "週次W38: 日次が2026-08-11で停止し直近7日0件。代替に08-05〜08-11の6日を分析。全12カテゴリ6/6日カバー・consumer0日で健全。新出8件追加(cat1/2/6/9)、cat8にBluetooth HDT追加、cat12の開催済CEDIA/IBCをAES Nashville・NAB NYへ差替。",
+  "rationale": "週次W39: 09-21〜27で有効日次は実質2日(09-22/23は09-21の完全重複ファイル、09-25〜27欠落)。取得分は全12カテゴリ被覆・consumer0日。新出からcat6にEighteen Sound/Purifi、cat4にアクティブアコースティクス、cat9にパラメトリックアレイを追加。cat12は据え置き。",
   "categories": [
     {
       "id": 1,
@@ -48,7 +48,8 @@
         "L-ISA OR Soundscape OR Holoplot OR Spacemap OR HOLOPHONIX OR 1 SOUND Panorama OR DirectOut OR TiMax {YEAR}",
         "Dante AVB AES67 deployment {YEAR}",
         "immersive install {YEAR}",
-        "AES70 OCA Milan {YEAR}"
+        "AES70 OCA Milan {YEAR}",
+        "active acoustics OR L-ISA Ambiance OR Meyer Constellation OR Fulcrum Venueflex {YEAR}"
       ]
     },
     {
@@ -71,7 +72,7 @@
         "neodymium motor {YEAR}",
         "loudspeaker diaphragm material {YEAR}",
         "large format driver {YEAR}",
-        "iron nitride OR Niron Magnetics OR rare-earth-free magnet driver OR Lavoce OR SB Audience OR B&C Speakers OR Beyma OR SEAS OR Celestion {YEAR}"
+        "iron nitride OR Niron Magnetics OR rare-earth-free magnet driver OR Lavoce OR SB Audience OR B&C Speakers OR Beyma OR SEAS OR Celestion OR Eighteen Sound OR Purifi {YEAR}"
       ]
     },
     {
@@ -106,7 +107,8 @@
         "acoustic metamaterial {YEAR}",
         "xMEMS OR Knowles OR Syntiant OR MEMS speaker {YEAR}",
         "corona discharge transducer {YEAR}",
-        "plasma loudspeaker {YEAR}"
+        "plasma loudspeaker {YEAR}",
+        "parametric array loudspeaker OR ultrasonic MEMS transducer {YEAR}"
       ]
     },
     {
